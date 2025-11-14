@@ -1,0 +1,181 @@
+order_id,customer_id,order_date,status,shipping_address,shipping_city,shipping_state,shipping_zip,shipping_country,shipping_cost,tax_amount,subtotal,total_amount
+1,22,2025-08-31T23:19:06.206917,Processing,1166 Barbara Roads Apt. 270,North Robert,Wisconsin,73190,Rwanda,3.08,38.22,6751.08,6792.38
+2,58,2025-10-19T23:31:00.219402,Cancelled,06021 Zachary Pines,Strongstad,Florida,53233,Qatar,9.89,45.43,4891.6,4946.92
+3,77,2025-06-05T18:25:17.466108,Cancelled,55999 Virginia Cape Apt. 576,Yangchester,Maine,99809,Lesotho,25.73,15.27,5077.59,5118.59
+4,16,2025-07-28T00:36:58.403288,Cancelled,981 Paula Ramp,Emilymouth,Missouri,42501,Kazakhstan,24.95,4.96,6479.55,6509.46
+5,54,2025-01-17T23:42:26.258193,Returned,34750 Mitchell Lights Suite 220,South April,Oregon,81172,Germany,5.48,33.02,4714.69,4753.19
+6,41,2024-12-20T18:56:49.649549,Processing,14477 Nicole Heights Suite 913,Donaldborough,Oklahoma,67177,Saudi Arabia,4.52,3.75,820.96,829.23
+7,1,2025-01-15T02:46:02.881323,Delivered,830 Wall Burg,Jamesshire,Nevada,96457,Kenya,11.71,29.69,4220.72,4262.12
+8,75,2025-05-23T14:39:02.875118,Pending,1176 Baker Way Apt. 415,Lake Lauraland,Massachusetts,21043,Madagascar,6.02,35.35,8587.77,8629.14
+9,117,2025-03-16T21:10:25.806269,Pending,815 Ryan Squares Suite 380,East Derrickfurt,Iowa,88758,Congo,17.87,46.2,1032.09,1096.16
+10,51,2025-02-19T07:31:33.771537,Delivered,2742 Cynthia Corners,North Ryan,New York,73604,New Zealand,2.98,11.24,932.31,946.53
+11,39,2025-01-29T14:29:30.296509,Shipped,64969 Dana Orchard,West Mary,Maine,88053,Libyan Arab Jamahiriya,21.48,3.57,4295.2,4320.25
+12,43,2025-05-12T09:57:53.226291,Shipped,587 Davis Creek Suite 675,Lake Roger,Idaho,61414,Zimbabwe,15.47,41.21,3232.4500000000003,3289.13
+13,74,2025-03-10T21:14:11.181571,Delivered,6277 Mcdaniel Burgs,Josephborough,Nebraska,08470,Monaco,3.23,34.43,12069.130000000001,12106.79
+14,104,2025-08-23T04:34:35.472340,Shipped,566 Coleman Green Apt. 473,Daisyton,Maryland,59173,Ireland,13.01,24.69,3800.1,3837.8
+15,21,2025-02-03T06:17:46.614136,Cancelled,319 Anderson Plains,Lake Andrewfurt,Colorado,92871,Grenada,1.04,21.6,4904.15,4926.79
+16,83,2025-10-13T10:44:33.012142,Cancelled,083 Nichols Estate,Heathbury,Maine,21656,United States Minor Outlying Islands,6.51,4.57,1573.23,1584.31
+17,148,2025-03-30T22:48:31.079175,Cancelled,83000 Walter Turnpike Suite 024,Andrewbury,Arizona,36212,San Marino,24.71,49.98,5335.19,5409.88
+18,69,2024-12-29T14:43:53.307299,Cancelled,624 Charles Parkways Suite 008,North Jill,Montana,25966,Switzerland,1.05,37.81,4291.93,4330.79
+19,121,2025-06-23T13:28:42.695774,Cancelled,6804 Stevens Courts Suite 976,Russellbury,Nebraska,74031,Fiji,16.93,45.8,2338.24,2400.97
+20,47,2025-05-09T21:45:43.434556,Cancelled,0765 Shaun Ports,South Kelliemouth,Mississippi,62996,Mongolia,11.33,40.71,4354.61,4406.65
+21,24,2024-12-24T06:00:31.369646,Delivered,2118 Jared Overpass Apt. 126,Millsshire,Wisconsin,30966,Bahamas,9.04,16.67,9791.59,9817.3
+22,27,2025-08-21T14:07:06.792358,Processing,4520 Barker Rapid Suite 043,Gardnermouth,Tennessee,31399,Gibraltar,8.57,34.68,5376.33,5419.58
+23,74,2025-05-01T21:14:21.356764,Returned,811 Lyons Lane Apt. 028,East Jamesville,Arizona,56099,Lithuania,24.57,40.68,4016.8199999999997,4082.07
+24,141,2025-01-15T19:08:44.733190,Pending,86604 Ryan Hill Suite 859,Anneburgh,Georgia,38537,Mali,11.82,15.73,1959.0300000000002,1986.58
+25,83,2025-07-22T12:25:45.939905,Pending,947 Clark Isle Apt. 287,West Robertberg,New Mexico,09289,Albania,25.22,20.21,121.29,166.72
+26,132,2025-03-08T07:20:35.311824,Pending,18751 Colleen Ranch,North Michael,Oklahoma,30127,Guatemala,17.09,27.13,5048.14,5092.36
+27,106,2025-07-02T00:05:55.804838,Pending,4694 Weber Lodge,Annborough,California,78179,Cape Verde,4.88,18.09,6044.57,6067.54
+28,128,2024-12-22T01:41:33.057989,Returned,2491 Laura Radial,Riverashire,Rhode Island,36839,Sri Lanka,11.49,2.58,6003.83,6017.9
+29,69,2025-08-10T14:03:58.637074,Cancelled,20331 Douglas Mountains Apt. 510,New Lindsay,Nevada,87643,Latvia,3.41,14.4,701.32,719.13
+30,125,2025-03-13T20:55:23.186279,Pending,86667 Collins Pike,Alyssaborough,Hawaii,83570,Syrian Arab Republic,0.75,31.5,2109.06,2141.31
+31,62,2025-02-23T20:35:39.651815,Returned,8774 Angela Mews,Gregorystad,New Jersey,88324,Guatemala,4.12,27.54,5053.389999999999,5085.05
+32,142,2025-08-07T09:12:21.044274,Delivered,836 White Summit,East Scotthaven,Illinois,01236,Namibia,2.42,49.61,2767.19,2819.22
+33,30,2025-03-07T18:38:34.064007,Delivered,4809 Johnson Harbor,Sandersview,Louisiana,82456,Azerbaijan,24.61,32.39,5570.87,5627.87
+34,40,2025-11-03T22:48:45.938944,Delivered,797 Thompson Summit,North Mikeberg,Virginia,96995,Christmas Island,24.24,14.59,5764.099999999999,5802.93
+35,70,2025-09-28T08:49:12.347597,Delivered,61070 Davis Plains,Tonyaborough,Tennessee,80979,Saint Pierre and Miquelon,21.69,49.01,3274.38,3345.08
+36,63,2024-11-20T13:41:18.581613,Delivered,295 Shelia Lodge Suite 013,Lake Joseph,Idaho,58618,Aruba,14.33,19.18,3053.88,3087.39
+37,131,2025-02-23T01:13:23.756460,Returned,862 Larry Points,Davidmouth,Oregon,91765,Benin,22.85,43.2,4096.87,4162.92
+38,71,2025-06-09T03:26:18.404454,Delivered,11212 Garza Brooks Apt. 035,Millerbury,Maryland,89746,Norway,8.83,39.39,8680.99,8729.21
+39,69,2025-10-24T13:17:57.328215,Pending,240 Mccarthy Fall,Donaldmouth,Nebraska,30118,Syrian Arab Republic,7.35,14.93,2882.6699999999996,2904.95
+40,149,2025-01-22T04:38:56.498875,Returned,44741 Kelly Lakes,Kelseyhaven,New Hampshire,83210,Poland,12.73,7.43,5442.16,5462.32
+41,138,2025-09-14T01:34:44.204062,Delivered,628 Victoria Mews,Debbieport,Indiana,45351,Reunion,8.97,27.6,2940.29,2976.86
+42,140,2025-11-02T23:35:47.999213,Delivered,83437 Johnson Crescent Apt. 727,Nathanfurt,Texas,77622,United Arab Emirates,11.83,16.09,5614.5,5642.42
+43,49,2024-11-26T20:08:39.840057,Returned,502 Alvarez Junction,East Robinport,Hawaii,61690,Mayotte,6.21,19.15,5990.9400000000005,6016.3
+44,106,2025-01-21T10:23:17.670525,Pending,9799 Simon Mountains,West Jennifer,Rhode Island,44787,Liberia,8.27,23.65,3426.54,3458.46
+45,98,2025-07-20T03:46:10.025508,Delivered,38166 Finley Locks Apt. 282,Oliviahaven,Illinois,74948,Sao Tome and Principe,25.69,39.62,7528.91,7594.22
+46,39,2025-01-04T10:04:16.703171,Delivered,14257 Martin Alley Apt. 324,Christopherbury,Indiana,57720,Bermuda,25.08,6.31,5199.58,5230.97
+47,85,2025-08-05T19:02:15.041336,Pending,850 Moore Courts,Piercefurt,Vermont,28352,United States Minor Outlying Islands,22.72,22.02,9146.68,9191.42
+48,135,2025-05-05T21:01:13.471755,Delivered,3162 Hines Dale Suite 546,Fergusonstad,New York,88303,Saint Vincent and the Grenadines,0.4,7.21,5144.4,5152.01
+49,40,2025-11-03T14:47:49.614400,Pending,92355 Mason Alley,Melendezbury,Florida,66030,Comoros,12.2,48.46,243.1,303.76
+50,87,2024-11-30T15:13:55.386348,Cancelled,1562 Hernandez Inlet Suite 704,Whitefurt,Utah,68310,Syrian Arab Republic,18.0,32.49,1475.94,1526.43
+51,85,2024-12-23T07:57:07.025488,Returned,1602 Anderson Parkways,Parkstown,New York,86198,Paraguay,22.33,19.0,3623.33,3664.66
+52,82,2025-04-10T02:32:31.127425,Returned,6419 Shaw Tunnel,Josephside,Mississippi,15138,Solomon Islands,18.68,37.97,857.88,914.53
+53,139,2025-01-18T18:15:17.495977,Pending,612 Matthew Station Suite 389,Grahammouth,Maine,05723,British Virgin Islands,16.05,11.74,6149.29,6177.08
+54,74,2025-09-27T06:23:43.866189,Processing,0954 Rogers Hill Apt. 842,Michaeltown,New Hampshire,43051,French Southern Territories,19.41,21.7,4316.5,4357.61
+55,26,2025-07-04T14:49:43.425863,Returned,0863 Christopher Court,Lake Duane,New York,57006,Uganda,18.29,5.03,6542.41,6565.73
+56,43,2025-02-22T17:57:33.418448,Returned,938 Williams Islands Suite 029,South Williamland,Michigan,83959,San Marino,7.78,1.45,1957.65,1966.88
+57,84,2025-03-04T17:01:02.700590,Pending,24161 Ashley Hollow Apt. 059,Lewischester,Louisiana,98394,Portugal,7.62,18.74,2094.39,2120.75
+58,38,2025-08-25T13:36:24.807218,Processing,096 Erika Groves Apt. 630,Sandovalview,Louisiana,61114,Netherlands Antilles,13.81,28.3,4669.91,4712.02
+59,47,2025-08-29T22:16:56.262145,Processing,33053 Cheryl Stream Suite 969,Amberfort,Oklahoma,02148,Guam,4.55,30.47,452.12,487.14
+60,98,2025-03-18T19:14:27.759047,Cancelled,2773 Emily Glens Suite 091,Hoffmanstad,Colorado,27705,San Marino,17.75,24.88,4436.32,4478.95
+61,150,2025-11-08T23:04:09.324452,Processing,4577 Eric Prairie Apt. 959,Perrytown,Wisconsin,37710,Moldova,6.03,31.9,3079.79,3117.72
+62,118,2025-08-13T01:30:57.468074,Shipped,8269 Collin Forge,North Ashley,Idaho,21356,Seychelles,17.33,44.95,6122.969999999999,6185.25
+63,120,2025-08-25T06:44:11.301632,Shipped,653 Lester Harbors Suite 515,Perezfurt,New York,99699,Kyrgyz Republic,17.61,7.9,978.99,1004.5
+64,114,2025-02-26T23:27:47.081068,Shipped,26408 Hines Shoal Apt. 169,Mccannchester,Illinois,83917,Antarctica (the territory South of 60 deg S),25.67,14.96,2830.82,2871.45
+65,109,2025-06-28T08:58:25.499929,Returned,981 Dougherty Islands,East Ashley,New Mexico,90201,Bermuda,6.5,42.27,5921.32,5970.09
+66,51,2025-10-27T21:47:31.004019,Delivered,968 Melissa Estates,Woodbury,Idaho,62389,Vietnam,22.18,5.33,458.67,486.18
+67,98,2025-08-01T15:40:57.993330,Cancelled,2410 Becky Mount,Lake Carrie,Kansas,23684,Kyrgyz Republic,9.33,14.79,1072.96,1097.08
+68,76,2025-05-16T01:30:11.320331,Pending,523 Bowen Cliff,Lake Antoniochester,North Dakota,62132,Tokelau,25.42,32.91,4209.51,4267.84
+69,71,2025-04-04T02:59:05.450372,Pending,8198 Samuel Views Apt. 460,Reginaldhaven,South Dakota,85649,Kazakhstan,14.71,34.29,3180.0200000000004,3229.02
+70,13,2025-04-19T22:03:21.127371,Cancelled,24912 Gutierrez Junction,East Laura,Indiana,35170,Bhutan,19.37,41.64,6274.61,6335.62
+71,74,2025-03-14T22:38:43.006787,Processing,7345 Norris Isle,Lyonsshire,Louisiana,78413,Argentina,15.78,17.62,5496.03,5529.43
+72,49,2025-08-19T08:48:26.858736,Cancelled,403 Elliott Station,Kristopherburgh,Oregon,83586,Gambia,6.51,37.78,11772.64,11816.93
+73,36,2025-05-06T23:06:55.793054,Returned,422 Catherine Walks Suite 430,New Kevin,Pennsylvania,02082,Eritrea,2.53,31.37,737.46,771.36
+74,11,2025-03-27T09:40:39.360503,Shipped,9252 Mills Lane Suite 287,South Penny,Alabama,88154,Yemen,20.5,1.67,1965.16,1987.33
+75,94,2024-12-08T02:51:10.873364,Returned,3324 Debra Knolls,Stevenstown,West Virginia,69198,Ukraine,3.42,45.48,9850.73,9899.63
+76,84,2025-02-05T20:09:10.954714,Returned,0615 Joseph Place,Port Brianshire,North Dakota,33003,Ecuador,10.8,10.04,557.32,578.16
+77,139,2025-02-15T22:48:41.883545,Shipped,337 Billy Rest,Andrealand,West Virginia,25406,Saint Martin,13.8,45.67,167.73,227.2
+78,43,2025-09-13T16:29:07.897314,Shipped,84033 Brenda Prairie,Marshallside,Arkansas,42294,Somalia,23.76,47.21,5641.96,5712.93
+79,76,2025-07-03T20:38:03.214599,Returned,1717 Cory Radial,New Tony,Oregon,01759,Mozambique,22.62,40.21,8391.22,8454.05
+80,120,2025-04-20T08:16:47.160302,Pending,739 Gay Glen,Guzmanfort,South Dakota,23639,Greenland,3.66,48.33,7317.85,7369.84
+81,102,2025-05-18T15:30:24.482442,Cancelled,448 Matthew Springs Suite 712,Smithhaven,New Mexico,65484,Central African Republic,9.51,39.53,799.3,848.34
+82,4,2025-01-18T17:51:57.380271,Shipped,417 Little Plain Apt. 313,West Warren,Massachusetts,70021,Latvia,13.95,22.74,3756.14,3792.83
+83,68,2024-12-22T01:10:27.217853,Cancelled,392 Moore Trafficway Suite 229,West Sue,New Mexico,86155,Nepal,9.9,31.93,6917.26,6959.09
+84,96,2025-08-29T09:03:29.874438,Pending,47452 Cook Knoll Suite 746,Farmertown,Wisconsin,53464,Azerbaijan,17.54,23.57,6040.45,6081.56
+85,144,2025-11-03T01:15:23.987935,Shipped,274 Lori Flats Apt. 445,West Ronaldfurt,Massachusetts,73648,Monaco,23.79,11.07,4716.23,4751.09
+86,17,2025-08-11T05:24:31.821139,Returned,874 Charles Estates,Jennifershire,New Mexico,06530,Slovakia (Slovak Republic),21.41,45.47,4016.1400000000003,4083.02
+87,78,2025-07-13T04:07:26.479306,Returned,49960 Brian Junctions Suite 857,Danielberg,West Virginia,10198,Greece,10.61,6.99,9795.24,9812.84
+88,10,2025-11-06T03:42:22.318543,Shipped,29493 Samuel Islands Suite 884,East Kelseyland,Vermont,93745,Saint Vincent and the Grenadines,25.88,5.81,1278.56,1310.25
+89,61,2025-03-09T01:55:14.581073,Cancelled,3257 Steven Isle Apt. 449,East Davidchester,Nevada,52445,Sri Lanka,3.53,22.68,4483.1900000000005,4509.4
+90,139,2025-05-11T00:06:44.095639,Delivered,085 Ariel Bypass,Kristyfort,Maine,75843,Grenada,15.26,36.33,4351.26,4402.85
+91,107,2025-07-04T00:44:06.549742,Returned,181 Lauren Vista,New Sandraborough,Wisconsin,10080,Seychelles,2.57,24.47,5482.14,5509.18
+92,105,2025-07-22T03:02:59.439600,Shipped,7251 Deborah Junction Suite 860,Andrewstown,South Carolina,51612,Andorra,0.85,18.53,1092.33,1111.71
+93,114,2024-11-17T14:24:44.375428,Delivered,2439 Patel Shoal Apt. 959,East Kendra,Indiana,40934,Cocos (Keeling) Islands,24.7,42.77,3266.2200000000003,3333.69
+94,26,2024-12-21T07:28:24.796809,Returned,85155 Dominique Flats,Frankview,Iowa,28974,Sierra Leone,9.55,45.08,3283.2,3337.83
+95,92,2025-03-24T04:26:25.511931,Pending,1607 Omar Mission,Rossborough,Wyoming,50374,Nauru,10.35,9.49,2397.3,2417.14
+96,32,2025-09-07T18:38:06.595148,Delivered,89812 David Overpass,Karamouth,Nebraska,25533,Cote d'Ivoire,2.38,10.61,1431.42,1444.41
+97,6,2025-11-09T01:33:09.741756,Pending,4817 Adrian Unions Suite 615,Sonyaland,Nevada,85960,French Southern Territories,20.45,12.18,343.9,376.53
+98,33,2025-02-06T04:48:13.283830,Cancelled,670 Blair Islands,East Melanieburgh,Oregon,01716,Brunei Darussalam,5.33,41.49,6138.4400000000005,6185.26
+99,142,2025-05-22T18:44:57.008760,Processing,700 Michelle Shore,Nathanchester,Hawaii,55451,China,15.24,40.65,3607.09,3662.98
+100,60,2025-01-17T05:26:40.603830,Shipped,251 Anthony Ford,Richardstad,Kentucky,82016,Gibraltar,20.13,39.43,283.24,342.8
+101,1,2024-11-24T21:05:20.923506,Shipped,0702 Williams Lane,East Craig,Minnesota,29690,Bermuda,22.31,7.23,2087.48,2117.02
+102,34,2025-04-16T17:47:39.458684,Cancelled,77687 Melody Valleys,West Thomasview,Florida,42821,Palestinian Territory,6.51,8.72,6109.25,6124.48
+103,7,2025-05-30T13:53:54.384564,Processing,7932 Zachary Valley,East Donna,West Virginia,12925,Saint Barthelemy,0.39,39.5,10469.529999999999,10509.42
+104,61,2025-04-10T21:14:44.954175,Cancelled,34245 Barnett Pike,Kathleenberg,Massachusetts,55816,Holy See (Vatican City State),8.41,8.71,908.43,925.55
+105,14,2025-07-13T19:44:53.857586,Processing,603 Alexis Roads,Port Lauraburgh,Montana,42775,Algeria,19.28,26.3,1339.12,1384.7
+106,17,2025-06-11T07:06:00.202154,Delivered,3967 Shawn Greens Suite 148,Matthewburgh,Kentucky,45194,Sri Lanka,11.65,18.1,6996.62,7026.37
+107,28,2025-09-28T18:05:13.977008,Delivered,158 Brown Lakes Suite 082,East Theresaville,Delaware,72651,Rwanda,13.09,47.27,6486.289999999999,6546.65
+108,12,2025-03-02T10:04:11.825428,Returned,7681 Raymond Pass Apt. 230,Lake Julie,North Dakota,79266,Slovakia (Slovak Republic),20.36,43.35,1285.46,1349.17
+109,134,2025-01-08T21:08:09.310158,Shipped,583 Nicholas Courts,Lake Cynthia,South Carolina,30157,Tajikistan,11.9,48.2,864.99,925.09
+110,16,2025-10-20T04:06:15.964962,Delivered,963 Williams Locks,Peterhaven,Nebraska,62962,Lao People's Democratic Republic,22.02,21.31,623.88,667.21
+111,28,2025-03-11T23:39:02.565889,Delivered,14843 Brian Loop Apt. 272,South Kristie,Tennessee,55421,India,18.52,22.18,3986.71,4027.41
+112,21,2025-06-18T08:25:40.750980,Shipped,1342 Martinez Streets,East Scott,Utah,36607,Senegal,15.81,3.28,3396.2,3415.29
+113,71,2025-03-14T00:15:09.444176,Cancelled,481 Hall Mill,Lynnside,West Virginia,80459,Korea,16.45,27.42,3384.2700000000004,3428.14
+114,84,2025-01-09T13:49:38.485898,Delivered,0641 Simmons Extension Suite 438,North Whitneystad,Kansas,87652,Lithuania,25.85,26.53,6315.8099999999995,6368.19
+115,117,2025-09-15T21:11:31.718640,Cancelled,0144 Bowman Isle Suite 451,North Jenniferfort,Kansas,77280,Lithuania,15.74,4.96,7311.14,7331.84
+116,30,2025-02-03T06:58:49.250084,Returned,417 Obrien Ways Suite 091,New Codybury,Mississippi,76538,Peru,16.92,38.45,2916.52,2971.89
+117,56,2025-07-31T09:08:04.724502,Delivered,0577 Shelby Via Suite 039,North Crystal,Michigan,13451,French Guiana,11.74,11.42,6744.139999999999,6767.3
+118,87,2025-10-16T12:41:12.433567,Delivered,745 Gomez Gateway,Seanton,Massachusetts,60558,Qatar,10.36,36.48,4924.63,4971.47
+119,81,2025-11-11T04:34:02.364486,Delivered,38856 Norman Extensions Suite 155,West Maria,Connecticut,95127,Bermuda,8.12,12.74,6341.37,6362.23
+120,40,2025-07-05T21:13:03.001592,Returned,726 Joseph Station Suite 557,Kariburgh,Massachusetts,02588,Bouvet Island (Bouvetoya),23.99,3.36,3366.8,3394.15
+121,22,2025-01-22T18:10:42.682682,Pending,848 Raymond Square Apt. 311,Phelpsberg,Virginia,45086,Martinique,11.22,37.23,9145.66,9194.11
+122,96,2025-03-23T14:54:18.810934,Processing,1499 Mario Fork,Mckenziebury,Oklahoma,20818,Papua New Guinea,14.46,29.32,7032.97,7076.75
+123,144,2025-11-11T19:28:23.729093,Cancelled,3333 Wong Forge,North Kenneth,Alaska,80745,Liberia,8.57,6.11,7342.9800000000005,7357.66
+124,91,2025-09-16T07:53:36.181020,Returned,893 Lopez Path Suite 964,Lindaview,Nevada,49027,Haiti,24.46,21.15,106.3,151.91
+125,14,2025-10-09T00:04:59.987416,Shipped,8512 Heath Squares,Port Amanda,Florida,13165,United States Virgin Islands,15.6,17.58,4144.83,4178.01
+126,148,2025-08-27T17:22:31.060521,Cancelled,519 Jennifer Stravenue Apt. 749,South Christinefort,Pennsylvania,57672,Bahrain,5.53,32.84,5567.55,5605.92
+127,58,2025-10-28T09:20:13.257475,Pending,87805 Dillon Drive,Lake Michaelview,Oregon,33532,Yemen,9.1,27.81,3552.71,3589.62
+128,30,2025-10-07T17:12:49.725785,Shipped,976 Valerie Forge,Collinsport,Michigan,30983,Montenegro,14.92,40.36,6278.33,6333.61
+129,144,2025-09-01T21:44:50.868139,Cancelled,89509 Jennifer Knolls Apt. 191,Crossborough,Kansas,79344,Singapore,15.95,32.13,1991.98,2040.06
+130,7,2025-08-18T10:53:32.152546,Cancelled,07151 Sophia Ports,Ballardfurt,Vermont,62682,Burundi,24.15,41.47,4919.6,4985.22
+131,69,2025-09-19T17:39:59.199092,Pending,45264 Davis Green,Gonzalezstad,Tennessee,83470,Belgium,4.69,35.13,5701.43,5741.25
+132,80,2025-03-18T11:34:08.299577,Shipped,409 Tina Circle,Codytown,North Dakota,02149,Albania,9.12,9.07,4297.969999999999,4316.16
+133,37,2025-03-13T18:54:39.342248,Cancelled,99512 Dana Parks Apt. 835,Port Feliciaberg,Rhode Island,49543,Montserrat,17.08,3.48,7067.650000000001,7088.21
+134,8,2025-01-18T01:30:43.503795,Pending,282 Johnson Camp Apt. 441,Feliciashire,North Dakota,22440,United Arab Emirates,19.39,10.76,755.7,785.85
+135,108,2024-12-20T21:10:52.417342,Delivered,295 Mcfarland Plaza,Bowersville,Texas,73175,Bahrain,8.86,18.5,6331.51,6358.87
+136,84,2025-03-17T23:30:47.570988,Cancelled,37360 Brown Neck Apt. 815,Shermanborough,Maine,42485,Burkina Faso,15.5,44.17,6730.03,6789.7
+137,40,2025-04-26T23:15:51.523586,Processing,6666 Tracy Overpass,West Annafurt,Maryland,65724,Solomon Islands,19.61,2.49,2289.42,2311.52
+138,21,2025-08-22T19:18:33.984004,Shipped,031 Mcclain Summit,Lake Lee,Arkansas,70531,Antarctica (the territory South of 60 deg S),11.52,21.2,614.97,647.69
+139,114,2024-12-01T17:09:30.264216,Delivered,3580 Rodgers Pine Apt. 850,North Stephen,Idaho,29542,Rwanda,7.1,37.75,2279.35,2324.2
+140,30,2025-03-11T09:32:25.752344,Shipped,3990 Sandra Ford,West Adambury,Texas,43853,Christmas Island,11.17,14.16,1069.35,1094.68
+141,125,2025-11-09T18:29:21.149000,Cancelled,6022 Christy Green,Beckerport,Indiana,86135,Saint Pierre and Miquelon,17.34,2.27,3780.7799999999997,3800.39
+142,102,2025-10-13T23:56:57.219852,Cancelled,066 Ramirez Field Suite 490,Williamsmouth,Florida,87396,Portugal,1.42,10.22,2953.27,2964.91
+143,55,2025-02-03T20:52:39.716996,Processing,27128 Jackson Streets,Stephaniefurt,Maine,70789,France,19.86,14.47,916.1600000000001,950.49
+144,31,2025-02-26T09:38:04.383138,Pending,16318 Gonzalez Path Apt. 771,East Benjaminfurt,Idaho,11459,Serbia,12.93,21.53,588.3,622.76
+145,34,2025-07-25T15:42:12.124674,Delivered,69572 Harper Canyon,Port Jason,Massachusetts,06236,Montenegro,13.84,11.51,7947.6900000000005,7973.04
+146,144,2024-11-19T16:06:35.517031,Returned,4257 Rachel Centers,Jamesport,North Carolina,08843,Czech Republic,20.95,3.6,1927.33,1951.88
+147,11,2025-01-20T15:08:15.273984,Delivered,7071 Carolyn Heights,East Amy,Massachusetts,07934,Bouvet Island (Bouvetoya),0.49,46.06,2370.44,2416.99
+148,81,2025-07-22T10:08:33.560753,Cancelled,809 Jennifer Islands Suite 021,North Patrick,Oregon,08157,Suriname,11.16,20.22,5037.139999999999,5068.52
+149,107,2025-04-04T22:21:32.998762,Shipped,09810 Pineda Rue,Campbellfurt,New Hampshire,98551,Dominica,2.99,1.04,764.76,768.79
+150,84,2025-07-21T17:39:33.661514,Processing,7727 Walker Heights Apt. 642,Jodychester,Maryland,19373,Armenia,20.83,30.91,936.38,988.12
+151,93,2025-05-01T08:37:30.745571,Pending,2536 Stephenson Mount,Wallacefurt,New Jersey,48153,Guadeloupe,11.35,5.29,2346.7799999999997,2363.42
+152,112,2025-03-13T11:28:35.412535,Cancelled,83333 Stacy Stream Suite 786,Dawnborough,Montana,19025,Latvia,10.41,3.93,3485.2299999999996,3499.57
+153,80,2024-12-24T03:23:45.132034,Returned,9603 Matthew Estate Suite 862,Johnsonborough,Missouri,74870,Papua New Guinea,8.82,16.65,4248.3099999999995,4273.78
+154,44,2025-01-16T09:19:32.152922,Pending,693 Robert Mountain,Port Joanna,Wisconsin,64291,Germany,13.27,5.7,1911.18,1930.15
+155,131,2025-06-25T06:21:24.275776,Processing,111 Alan Wall,West Melissamouth,Minnesota,27109,Samoa,23.54,17.47,2929.2200000000003,2970.23
+156,38,2025-01-08T10:54:07.203302,Processing,1595 Alvarez Squares,West Kevin,Oklahoma,21447,United Arab Emirates,2.67,12.8,4709.37,4724.84
+157,45,2025-10-01T21:20:15.120445,Cancelled,1896 Anna Road,Gravesview,Vermont,33189,Brazil,3.97,37.96,2649.0,2690.93
+158,20,2025-07-14T19:06:48.621341,Processing,1026 Gray Extension,New Haileystad,New Hampshire,77163,Montserrat,24.72,31.4,6312.57,6368.69
+159,119,2025-01-19T20:28:59.472861,Cancelled,9551 Jones Dale,Ericaberg,Delaware,88175,Congo,19.75,22.45,2034.1599999999999,2076.36
+160,145,2025-10-31T11:01:05.685096,Returned,1597 Christy Ramp Suite 254,New Juan,North Dakota,03573,Liechtenstein,16.51,31.23,5060.25,5107.99
+161,81,2025-03-10T18:16:19.287413,Processing,34476 Williams Summit,Hopkinsmouth,Oklahoma,04613,Bulgaria,11.43,23.45,779.12,814.0
+162,78,2025-09-28T18:41:27.251352,Shipped,904 Gonzalez Mountains,Priceview,Vermont,49671,Grenada,15.37,17.6,4474.54,4507.51
+163,19,2025-03-28T08:44:05.407112,Shipped,5254 Tracy Grove Apt. 715,North Lisaville,Kansas,10254,Christmas Island,12.0,1.88,3676.9,3690.78
+164,95,2025-03-30T18:30:06.141484,Shipped,311 Jennifer Street,Mollyland,Georgia,76883,Niue,1.99,43.21,4475.91,4521.11
+165,24,2025-11-01T22:39:52.788874,Cancelled,519 Brian Dam Apt. 121,North Ryanbury,Indiana,07054,Saint Barthelemy,15.44,19.22,4864.76,4899.42
+166,149,2024-12-13T11:16:08.462401,Cancelled,837 Jeanette Park Apt. 749,South Jacksontown,Colorado,23550,Congo,24.8,36.95,2958.63,3020.38
+167,11,2025-02-18T13:47:30.658354,Delivered,113 Melinda Throughway,East Ralph,Pennsylvania,39392,Netherlands Antilles,23.63,28.58,6593.5,6645.71
+168,49,2025-04-13T23:12:37.722340,Shipped,64538 Diana Springs Suite 421,North Troyton,South Carolina,99545,Svalbard & Jan Mayen Islands,15.72,25.07,6193.48,6234.27
+169,16,2025-04-20T11:15:01.954752,Delivered,15959 Ashley Stream Suite 757,Victorfort,Massachusetts,72055,Samoa,2.69,44.96,791.75,839.4
+170,88,2025-01-22T22:31:02.370810,Returned,56775 Ford Mountain,Hernandezfurt,Nebraska,03709,Tunisia,2.19,32.31,344.46,378.96
+171,11,2025-01-04T09:02:41.383240,Processing,2650 Moody Shore Apt. 292,North Allen,New Mexico,20148,Faroe Islands,18.39,49.55,3830.6800000000003,3898.62
+172,135,2025-03-17T14:30:05.719071,Cancelled,6248 Perez Oval,Reynoldsburgh,New York,87767,Bahamas,15.85,18.19,2738.06,2772.1
+173,73,2025-03-23T11:08:10.621312,Delivered,57942 April Park,South Tracy,Maryland,83274,Cayman Islands,10.62,16.92,302.81,330.35
+174,14,2025-03-18T01:35:07.924163,Returned,969 Carol Pines Suite 552,Annettefort,California,02822,Kiribati,16.82,3.3,4220.72,4240.84
+175,25,2025-03-29T12:53:41.574399,Cancelled,53574 Ray Isle,East Tammy,South Dakota,75510,United States Minor Outlying Islands,17.63,14.21,5099.29,5131.13
+176,39,2025-02-06T01:01:05.447752,Shipped,79705 Patrick Drive,Christopherfort,New Jersey,79484,United Arab Emirates,2.12,33.18,5430.0599999999995,5465.36
+177,90,2025-10-05T15:59:48.827286,Shipped,76342 Abbott Circle Suite 330,Michaelfort,Oklahoma,19653,Slovenia,25.15,34.92,1701.24,1761.31
+178,101,2025-02-22T00:58:35.637404,Processing,5983 Susan Ranch Apt. 403,Johnfurt,Nevada,92336,Svalbard & Jan Mayen Islands,15.47,46.9,488.65,551.02
+179,80,2025-09-21T17:16:52.000939,Cancelled,3240 Denise Track Suite 157,South Connie,Oklahoma,21076,Nepal,9.79,39.58,4173.91,4223.28
+180,33,2025-04-25T14:16:49.259199,Returned,47439 Mitchell Radial Apt. 501,Port Markfort,Mississippi,19080,Germany,18.27,47.36,701.26,766.89

@@ -1,0 +1,542 @@
+customer_name,email,order_id,order_date,product_name,quantity,price,total_amount_paid
+Michael Smith,bgross@example.net,123,2025-11-11T19:28:23.729093,Configurable multi-state core Deluxe,5,83.01,7357.66
+Michael Smith,bgross@example.net,123,2025-11-11T19:28:23.729093,Inverse empowering conglomeration Standard,3,941.41,7357.66
+Michael Smith,bgross@example.net,123,2025-11-11T19:28:23.729093,Centralized didactic access Basic,4,558.45,7357.66
+Michael Smith,bgross@example.net,123,2025-11-11T19:28:23.729093,Streamlined dynamic info-mediaries Premium,3,623.3,7357.66
+Joseph Perry,yjones@example.org,119,2025-11-11T04:34:02.364486,Public-key content-based array Pro,4,332.28,0.0
+Joseph Perry,yjones@example.org,119,2025-11-11T04:34:02.364486,Implemented discrete moderator Pro,3,794.17,0.0
+Joseph Perry,yjones@example.org,119,2025-11-11T04:34:02.364486,Re-contextualized clear-thinking array Basic,3,446.46,0.0
+Joseph Perry,yjones@example.org,119,2025-11-11T04:34:02.364486,Switchable heuristic Graphical User Interface Premium,4,322.59,0.0
+Christian King,zacharygomez@example.com,141,2025-11-09T18:29:21.149000,Multi-channeled actuating interface Standard,3,80.49,0.0
+Christian King,zacharygomez@example.com,141,2025-11-09T18:29:21.149000,Multi-channeled background Graphic Interface Premium,5,373.3,0.0
+Christian King,zacharygomez@example.com,141,2025-11-09T18:29:21.149000,Quality-focused optimizing firmware Basic,2,311.1,0.0
+Christian King,zacharygomez@example.com,141,2025-11-09T18:29:21.149000,Phased heuristic encryption Basic,1,386.05,0.0
+Christian King,zacharygomez@example.com,141,2025-11-09T18:29:21.149000,Public-key content-based array Pro,2,332.28,0.0
+Jerry Robinson,zimmermanbrian@example.org,97,2025-11-09T01:33:09.741756,Focused systemic algorithm Premium,5,68.78,376.53
+Ashley Hoffman,johnadams@example.com,61,2025-11-08T23:04:09.324452,Expanded fault-tolerant Internet solution Premium,1,623.79,0.0
+Ashley Hoffman,johnadams@example.com,61,2025-11-08T23:04:09.324452,Adaptive coherent firmware Basic,4,614.0,0.0
+Sarah Garcia,josephpreston@example.net,88,2025-11-06T03:42:22.318543,User-centric optimal algorithm Deluxe,2,639.28,1310.25
+Ryan Morales,fosterkyle@example.com,34,2025-11-03T22:48:45.938944,Secured tangible structure Premium,5,491.64,5802.93
+Ryan Morales,fosterkyle@example.com,34,2025-11-03T22:48:45.938944,Profound real-time complexity Standard,2,536.68,5802.93
+Ryan Morales,fosterkyle@example.com,34,2025-11-03T22:48:45.938944,Customizable encompassing approach Deluxe,5,330.22,5802.93
+Ryan Morales,fosterkyle@example.com,34,2025-11-03T22:48:45.938944,Virtual needs-based middleware Pro,1,581.44,5802.93
+Ryan Morales,fosterkyle@example.com,49,2025-11-03T14:47:49.614400,Stand-alone impactful attitude Standard,1,243.1,303.76
+Michael Smith,bgross@example.net,85,2025-11-03T01:15:23.987935,Extended coherent middleware Pro,2,932.16,0.0
+Michael Smith,bgross@example.net,85,2025-11-03T01:15:23.987935,Balanced foreground hardware Standard,3,640.03,0.0
+Michael Smith,bgross@example.net,85,2025-11-03T01:15:23.987935,Multi-channeled actuating interface Standard,4,89.43,0.0
+Michael Smith,bgross@example.net,85,2025-11-03T01:15:23.987935,Future-proofed web-enabled ability Premium,5,114.82,0.0
+Joseph Wong,robert12@example.org,42,2025-11-02T23:35:47.999213,Automated attitude-oriented capability Deluxe,4,491.29,0.0
+Joseph Wong,robert12@example.org,42,2025-11-02T23:35:47.999213,Configurable multi-state core Deluxe,1,66.41,0.0
+Joseph Wong,robert12@example.org,42,2025-11-02T23:35:47.999213,Object-based asynchronous moderator Basic,5,643.19,0.0
+Joseph Wong,robert12@example.org,42,2025-11-02T23:35:47.999213,Synchronized bi-directional strategy Deluxe,2,183.49,0.0
+Shawn Mcdaniel,kristin93@example.com,165,2025-11-01T22:39:52.788874,Integrated content-based analyzer Basic,2,310.36,0.0
+Shawn Mcdaniel,kristin93@example.com,165,2025-11-01T22:39:52.788874,Adaptive actuating throughput Basic,2,669.56,0.0
+Shawn Mcdaniel,kristin93@example.com,165,2025-11-01T22:39:52.788874,Inverse optimizing paradigm Basic,4,726.23,0.0
+Tracy Hanson,brandon39@example.net,160,2025-10-31T11:01:05.685096,Programmable systemic hierarchy Deluxe,5,584.13,0.0
+Tracy Hanson,brandon39@example.net,160,2025-10-31T11:01:05.685096,Virtual needs-based middleware Pro,3,581.44,0.0
+Tracy Hanson,brandon39@example.net,160,2025-10-31T11:01:05.685096,Implemented leadingedge core Premium,4,98.82,0.0
+Mikayla Becker,chelsea33@example.com,127,2025-10-28T09:20:13.257475,Reactive leadingedge knowledgebase Premium,2,407.07,0.0
+Mikayla Becker,chelsea33@example.com,127,2025-10-28T09:20:13.257475,Realigned holistic capability Basic,2,7.67,0.0
+Mikayla Becker,chelsea33@example.com,127,2025-10-28T09:20:13.257475,Quality-focused regional Graphical User Interface Pro,4,600.42,0.0
+Mikayla Becker,chelsea33@example.com,127,2025-10-28T09:20:13.257475,Reactive bottom-line hub Premium,1,55.91,0.0
+Mikayla Becker,chelsea33@example.com,127,2025-10-28T09:20:13.257475,Configurable multi-state core Deluxe,4,66.41,0.0
+Grant Ward,davidharris@example.org,66,2025-10-27T21:47:31.004019,Compatible high-level alliance Basic,1,458.67,0.0
+Tiffany Smith,ldrake@example.org,39,2025-10-24T13:17:57.328215,Expanded fault-tolerant Internet solution Premium,3,779.74,0.0
+Tiffany Smith,ldrake@example.org,39,2025-10-24T13:17:57.328215,Seamless attitude-oriented hardware Standard,3,59.36,0.0
+Tiffany Smith,ldrake@example.org,39,2025-10-24T13:17:57.328215,Configurable multi-state core Deluxe,3,66.41,0.0
+Tiffany Smith,ldrake@example.org,39,2025-10-24T13:17:57.328215,Secured bandwidth-monitored task-force Standard,2,83.07,0.0
+Shannon Walton,katie87@example.net,110,2025-10-20T04:06:15.964962,Synchronized bi-directional strategy Deluxe,4,155.97,0.0
+Mikayla Becker,chelsea33@example.com,2,2025-10-19T23:31:00.219402,Optimized even-keeled application Basic,3,15.25,4946.92
+Mikayla Becker,chelsea33@example.com,2,2025-10-19T23:31:00.219402,Versatile scalable workforce Premium,5,969.17,4946.92
+Samantha White,tranrobin@example.net,118,2025-10-16T12:41:12.433567,Self-enabling system-worthy help-desk Basic,5,62.53,4971.47
+Samantha White,tranrobin@example.net,118,2025-10-16T12:41:12.433567,Inverse attitude-oriented strategy Premium,5,755.7,4971.47
+Samantha White,tranrobin@example.net,118,2025-10-16T12:41:12.433567,Virtual high-level strategy Deluxe,4,208.37,4971.47
+Steven Sanders,maldonadojohn@example.com,142,2025-10-13T23:56:57.219852,Versatile 24/7 solution Deluxe,3,673.65,2964.91
+Steven Sanders,maldonadojohn@example.com,142,2025-10-13T23:56:57.219852,Virtual multi-state knowledgebase Premium,4,233.08,2964.91
+David Dalton,timperez@example.org,16,2025-10-13T10:44:33.012142,Future-proofed web-enabled ability Premium,3,129.18,0.0
+David Dalton,timperez@example.org,16,2025-10-13T10:44:33.012142,Triple-buffered executive interface Standard,1,362.98,0.0
+David Dalton,timperez@example.org,16,2025-10-13T10:44:33.012142,Reduced 5thgeneration secured line Deluxe,1,625.07,0.0
+David Dalton,timperez@example.org,16,2025-10-13T10:44:33.012142,Implemented leadingedge core Premium,2,98.82,0.0
+Kaitlin Thompson,richard04@example.com,125,2025-10-09T00:04:59.987416,Secured needs-based orchestration Pro,5,469.06,0.0
+Kaitlin Thompson,richard04@example.com,125,2025-10-09T00:04:59.987416,Universal methodical customer loyalty Basic,3,575.41,0.0
+Kaitlin Thompson,richard04@example.com,125,2025-10-09T00:04:59.987416,Secured bandwidth-monitored task-force Standard,1,73.3,0.0
+Rachel Marshall,erica21@example.com,128,2025-10-07T17:12:49.725785,Customizable fault-tolerant knowledge user Deluxe,3,229.34,0.0
+Rachel Marshall,erica21@example.com,128,2025-10-07T17:12:49.725785,Phased heuristic encryption Basic,5,428.94,0.0
+Rachel Marshall,erica21@example.com,128,2025-10-07T17:12:49.725785,User-centric optimal algorithm Deluxe,5,639.28,0.0
+Rachel Marshall,erica21@example.com,128,2025-10-07T17:12:49.725785,Secured bandwidth-monitored task-force Standard,3,83.07,0.0
+Jared Parker,melissa12@example.net,177,2025-10-05T15:59:48.827286,Face-to-face demand-driven implementation Standard,4,425.31,1761.31
+Shannon Palmer,odavis@example.com,157,2025-10-01T21:20:15.120445,Streamlined dynamic info-mediaries Premium,4,662.25,2690.93
+Donald Price,baileyhenderson@example.com,162,2025-09-28T18:41:27.251352,User-centric optimal algorithm Deluxe,4,575.35,0.0
+Donald Price,baileyhenderson@example.com,162,2025-09-28T18:41:27.251352,Triple-buffered executive interface Standard,5,341.62,0.0
+Donald Price,baileyhenderson@example.com,162,2025-09-28T18:41:27.251352,Balanced systemic policy Premium,4,116.26,0.0
+Robin James,tylerjohnson@example.net,107,2025-09-28T18:05:13.977008,Automated dedicated complexity Deluxe,4,548.31,6546.65
+Robin James,tylerjohnson@example.net,107,2025-09-28T18:05:13.977008,Fundamental web-enabled strategy Premium,5,543.39,6546.65
+Robin James,tylerjohnson@example.net,107,2025-09-28T18:05:13.977008,Ergonomic client-server interface Standard,1,254.32,6546.65
+Robin James,tylerjohnson@example.net,107,2025-09-28T18:05:13.977008,Ergonomic object-oriented capacity Deluxe,2,660.89,6546.65
+Thomas Walsh,christopherbruce@example.net,35,2025-09-28T08:49:12.347597,Multi-channeled background Graphic Interface Premium,2,317.3,0.0
+Thomas Walsh,christopherbruce@example.net,35,2025-09-28T08:49:12.347597,Reactive leadingedge knowledgebase Premium,5,457.96,0.0
+Thomas Walsh,christopherbruce@example.net,35,2025-09-28T08:49:12.347597,Quality-focused optimizing firmware Basic,1,349.98,0.0
+Cynthia Faulkner,markramirez@example.com,54,2025-09-27T06:23:43.866189,Quality-focused regional Graphical User Interface Pro,3,675.47,0.0
+Cynthia Faulkner,markramirez@example.com,54,2025-09-27T06:23:43.866189,Organic discrete middleware Basic,2,511.07,0.0
+Cynthia Faulkner,markramirez@example.com,54,2025-09-27T06:23:43.866189,Phased interactive database Pro,3,422.65,0.0
+Chelsey Patterson,kristenli@example.org,179,2025-09-21T17:16:52.000939,Ergonomic value-added budgetary management Standard,3,211.58,0.0
+Chelsey Patterson,kristenli@example.org,179,2025-09-21T17:16:52.000939,Balanced systemic policy Premium,1,145.33,0.0
+Chelsey Patterson,kristenli@example.org,179,2025-09-21T17:16:52.000939,Versatile 24/7 solution Deluxe,5,538.92,0.0
+Chelsey Patterson,kristenli@example.org,179,2025-09-21T17:16:52.000939,Virtual multi-state knowledgebase Premium,3,233.08,0.0
+Tiffany Smith,ldrake@example.org,131,2025-09-19T17:39:59.199092,Self-enabling system-worthy help-desk Basic,2,50.02,5741.25
+Tiffany Smith,ldrake@example.org,131,2025-09-19T17:39:59.199092,Extended coherent middleware Pro,4,932.16,5741.25
+Tiffany Smith,ldrake@example.org,131,2025-09-19T17:39:59.199092,Self-enabling full-range extranet Standard,5,374.55,5741.25
+Richard Parks,aguilarjonathan@example.org,124,2025-09-16T07:53:36.181020,Self-enabling system-worthy help-desk Basic,2,53.15,0.0
+Felicia Lopez,jillwilson@example.org,115,2025-09-15T21:11:31.718640,Versatile scalable workforce Premium,4,969.17,7331.84
+Felicia Lopez,jillwilson@example.org,115,2025-09-15T21:11:31.718640,Switchable user-facing open system Premium,4,308.04,7331.84
+Felicia Lopez,jillwilson@example.org,115,2025-09-15T21:11:31.718640,Future-proofed executive synergy Premium,2,833.58,7331.84
+Felicia Lopez,jillwilson@example.org,115,2025-09-15T21:11:31.718640,Reactive user-facing Graphic Interface Deluxe,1,535.14,7331.84
+Kyle Wright,scott22@example.net,41,2025-09-14T01:34:44.204062,Reactive leadingedge knowledgebase Premium,5,432.51,2976.8599999999997
+Kyle Wright,scott22@example.net,41,2025-09-14T01:34:44.204062,Quality-focused optimizing firmware Basic,2,388.87,2976.8599999999997
+Sabrina Collins,tanderson@example.org,78,2025-09-13T16:29:07.897314,Balanced systemic policy Premium,4,145.33,0.0
+Sabrina Collins,tanderson@example.org,78,2025-09-13T16:29:07.897314,Re-contextualized clear-thinking array Basic,2,357.17,0.0
+Sabrina Collins,tanderson@example.org,78,2025-09-13T16:29:07.897314,Future-proofed web-enabled ability Premium,3,114.82,0.0
+Sabrina Collins,tanderson@example.org,78,2025-09-13T16:29:07.897314,Organic attitude-oriented policy Premium,4,646.91,0.0
+Sabrina Collins,tanderson@example.org,78,2025-09-13T16:29:07.897314,Enterprise-wide hybrid analyzer Premium,4,353.55,0.0
+Sydney Taylor,michelleramsey@example.com,96,2025-09-07T18:38:06.595148,Balanced systemic policy Premium,5,109.0,0.0
+Sydney Taylor,michelleramsey@example.com,96,2025-09-07T18:38:06.595148,Persistent bi-directional artificial intelligence Deluxe,4,74.53,0.0
+Sydney Taylor,michelleramsey@example.com,96,2025-09-07T18:38:06.595148,Reduced 5thgeneration secured line Deluxe,1,588.3,0.0
+Michael Smith,bgross@example.net,129,2025-09-01T21:44:50.868139,Universal methodical customer loyalty Basic,3,575.41,0.0
+Michael Smith,bgross@example.net,129,2025-09-01T21:44:50.868139,Self-enabling system-worthy help-desk Basic,5,53.15,0.0
+Kenneth Ward,alexis82@example.com,1,2025-08-31T23:19:06.206917,Secured 4thgeneration forecast Standard,3,926.95,6792.379999999999
+Kenneth Ward,alexis82@example.com,1,2025-08-31T23:19:06.206917,Self-enabling object-oriented toolset Basic,3,421.26,6792.379999999999
+Kenneth Ward,alexis82@example.com,1,2025-08-31T23:19:06.206917,Business-focused hybrid framework Deluxe,2,799.04,6792.379999999999
+Kenneth Ward,alexis82@example.com,1,2025-08-31T23:19:06.206917,Reactive bottom-line hub Premium,3,41.93,6792.379999999999
+Kenneth Ward,alexis82@example.com,1,2025-08-31T23:19:06.206917,Automated attitude-oriented capability Deluxe,2,491.29,6792.379999999999
+Elizabeth Mills,carlos88@example.net,59,2025-08-29T22:16:56.262145,Ergonomic client-server interface Standard,2,226.06,0.0
+Michael Bennett,kkramer@example.net,84,2025-08-29T09:03:29.874438,Streamlined dynamic info-mediaries Premium,4,584.34,0.0
+Michael Bennett,kkramer@example.net,84,2025-08-29T09:03:29.874438,Synchronized bandwidth-monitored database Deluxe,1,255.39,0.0
+Michael Bennett,kkramer@example.net,84,2025-08-29T09:03:29.874438,Adaptive coherent firmware Basic,4,521.9,0.0
+Michael Bennett,kkramer@example.net,84,2025-08-29T09:03:29.874438,Synchronized upward-trending synergy Deluxe,4,88.72,0.0
+Michael Bennett,kkramer@example.net,84,2025-08-29T09:03:29.874438,Centralized didactic access Basic,2,502.61,0.0
+Lisa Davis,ncarroll@example.net,126,2025-08-27T17:22:31.060521,Programmable systemic hierarchy Deluxe,1,730.16,5605.92
+Lisa Davis,ncarroll@example.net,126,2025-08-27T17:22:31.060521,Re-contextualized clear-thinking array Basic,3,446.46,5605.92
+Lisa Davis,ncarroll@example.net,126,2025-08-27T17:22:31.060521,Organic discrete middleware Basic,2,681.43,5605.92
+Lisa Davis,ncarroll@example.net,126,2025-08-27T17:22:31.060521,Triple-buffered executive interface Standard,5,427.03,5605.92
+Mark Pugh,wareeric@example.net,58,2025-08-25T13:36:24.807218,Synchronized bandwidth-monitored database Deluxe,5,300.46,4712.02
+Mark Pugh,wareeric@example.net,58,2025-08-25T13:36:24.807218,Streamlined dynamic info-mediaries Premium,2,779.12,4712.02
+Mark Pugh,wareeric@example.net,58,2025-08-25T13:36:24.807218,Grass-roots zero tolerance circuit Deluxe,1,38.06,4712.02
+Mark Pugh,wareeric@example.net,58,2025-08-25T13:36:24.807218,Reactive user-facing Graphic Interface Deluxe,3,501.69,4712.02
+Mark Pugh,wareeric@example.net,58,2025-08-25T13:36:24.807218,Centralized multi-state framework Deluxe,1,66.24,4712.02
+Darlene Montgomery,haynescharles@example.net,63,2025-08-25T06:44:11.301632,Streamlined homogeneous focus group Standard,3,302.81,0.0
+Darlene Montgomery,haynescharles@example.net,63,2025-08-25T06:44:11.301632,Configurable multi-state core Deluxe,1,70.56,0.0
+Lisa Powell,erin07@example.com,14,2025-08-23T04:34:35.472340,Stand-alone impactful attitude Standard,2,243.1,0.0
+Lisa Powell,erin07@example.com,14,2025-08-23T04:34:35.472340,Expanded fault-tolerant Internet solution Premium,5,662.78,0.0
+Hannah Brewer,bwest@example.org,138,2025-08-22T19:18:33.984004,Enhanced scalable task-force Basic,1,614.97,0.0
+Mary Baird,stephenthomas@example.org,22,2025-08-21T14:07:06.792358,Centralized homogeneous info-mediaries Pro,3,674.53,5419.58
+Mary Baird,stephenthomas@example.org,22,2025-08-21T14:07:06.792358,Organized human-resource help-desk Pro,4,692.36,5419.58
+Mary Baird,stephenthomas@example.org,22,2025-08-21T14:07:06.792358,Quality-focused optimizing firmware Basic,2,291.65,5419.58
+Carrie Simmons,cbell@example.net,72,2025-08-19T08:48:26.858736,Pre-emptive asymmetric core Standard,5,897.81,0.0
+Carrie Simmons,cbell@example.net,72,2025-08-19T08:48:26.858736,Operative tertiary knowledgebase Basic,1,980.83,0.0
+Carrie Simmons,cbell@example.net,72,2025-08-19T08:48:26.858736,Phased heuristic encryption Basic,5,428.94,0.0
+Carrie Simmons,cbell@example.net,72,2025-08-19T08:48:26.858736,Switchable user-facing open system Premium,2,261.83,0.0
+Carrie Simmons,cbell@example.net,72,2025-08-19T08:48:26.858736,Versatile scalable workforce Premium,5,726.88,0.0
+Richard Morgan,wrightjames@example.com,130,2025-08-18T10:53:32.152546,Implemented leadingedge core Premium,3,84.0,4985.22
+Richard Morgan,wrightjames@example.com,130,2025-08-18T10:53:32.152546,Advanced client-server throughput Basic,4,797.44,4985.22
+Richard Morgan,wrightjames@example.com,130,2025-08-18T10:53:32.152546,Profound optimal matrix Premium,3,30.27,4985.22
+Richard Morgan,wrightjames@example.com,130,2025-08-18T10:53:32.152546,Streamlined dynamic info-mediaries Premium,2,662.25,4985.22
+Richard Morgan,wrightjames@example.com,130,2025-08-18T10:53:32.152546,Self-enabling system-worthy help-desk Basic,1,62.53,4985.22
+Kelly Clements,wbarajas@example.net,62,2025-08-13T01:30:57.468074,Organic attitude-oriented policy Premium,5,808.64,0.0
+Kelly Clements,wbarajas@example.net,62,2025-08-13T01:30:57.468074,Devolved background superstructure Pro,3,11.83,0.0
+Kelly Clements,wbarajas@example.net,62,2025-08-13T01:30:57.468074,Organic discrete middleware Basic,4,511.07,0.0
+Melissa Cannon,wwoods@example.com,86,2025-08-11T05:24:31.821139,Quality-focused regional Graphical User Interface Pro,2,675.47,0.0
+Melissa Cannon,wwoods@example.com,86,2025-08-11T05:24:31.821139,Operative tertiary knowledgebase Basic,2,833.71,0.0
+Melissa Cannon,wwoods@example.com,86,2025-08-11T05:24:31.821139,Automated system-worthy open system Premium,1,701.32,0.0
+Melissa Cannon,wwoods@example.com,86,2025-08-11T05:24:31.821139,Implemented leadingedge core Premium,3,98.82,0.0
+Tiffany Smith,ldrake@example.org,29,2025-08-10T14:03:58.637074,Automated system-worthy open system Premium,1,701.32,0.0
+Julie Dunn,kingdanielle@example.org,32,2025-08-07T09:12:21.044274,Ergonomic client-server interface Standard,4,282.58,2819.22
+Julie Dunn,kingdanielle@example.org,32,2025-08-07T09:12:21.044274,Stand-alone impactful attitude Standard,5,243.1,2819.22
+Julie Dunn,kingdanielle@example.org,32,2025-08-07T09:12:21.044274,Self-enabling full-range extranet Standard,1,421.37,2819.22
+Jennifer Wang,fmiles@example.net,47,2025-08-05T19:02:15.041336,Synchronized bandwidth-monitored database Deluxe,5,225.34,0.0
+Jennifer Wang,fmiles@example.net,47,2025-08-05T19:02:15.041336,Organic discrete middleware Basic,5,613.29,0.0
+Jennifer Wang,fmiles@example.net,47,2025-08-05T19:02:15.041336,Streamlined dynamic info-mediaries Premium,4,779.12,0.0
+Jennifer Wang,fmiles@example.net,47,2025-08-05T19:02:15.041336,Secured needs-based orchestration Pro,3,531.6,0.0
+Jennifer Wang,fmiles@example.net,47,2025-08-05T19:02:15.041336,Streamlined homogeneous focus group Standard,1,242.25,0.0
+Amy Lopez,cwood@example.org,67,2025-08-01T15:40:57.993330,Seamless attitude-oriented hardware Standard,2,69.83,1097.08
+Amy Lopez,cwood@example.org,67,2025-08-01T15:40:57.993330,Quality-focused optimizing firmware Basic,3,311.1,1097.08
+Brandon Taylor,linda87@example.org,117,2025-07-31T09:08:04.724502,Implemented discrete moderator Pro,4,675.04,0.0
+Brandon Taylor,linda87@example.org,117,2025-07-31T09:08:04.724502,Virtual high-level strategy Deluxe,3,156.28,0.0
+Brandon Taylor,linda87@example.org,117,2025-07-31T09:08:04.724502,Seamless attitude-oriented hardware Standard,5,69.83,0.0
+Brandon Taylor,linda87@example.org,117,2025-07-31T09:08:04.724502,Programmable systemic hierarchy Deluxe,3,584.13,0.0
+Brandon Taylor,linda87@example.org,117,2025-07-31T09:08:04.724502,Adaptive coherent firmware Basic,3,491.2,0.0
+Shannon Walton,katie87@example.net,4,2025-07-28T00:36:58.403288,Triple-buffered executive interface Standard,2,320.27,0.0
+Shannon Walton,katie87@example.net,4,2025-07-28T00:36:58.403288,Switchable heuristic Graphical User Interface Premium,5,362.92,0.0
+Shannon Walton,katie87@example.net,4,2025-07-28T00:36:58.403288,Switchable user-facing open system Premium,4,308.04,0.0
+Shannon Walton,katie87@example.net,4,2025-07-28T00:36:58.403288,Centralized didactic access Basic,5,558.45,0.0
+Shawn Bates,williamsmatthew@example.org,145,2025-07-25T15:42:12.124674,Automated global instruction set Pro,4,236.86,0.0
+Shawn Bates,williamsmatthew@example.org,145,2025-07-25T15:42:12.124674,User-centric fault-tolerant software Pro,5,386.24,0.0
+Shawn Bates,williamsmatthew@example.org,145,2025-07-25T15:42:12.124674,Implemented discrete moderator Pro,1,595.63,0.0
+Shawn Bates,williamsmatthew@example.org,145,2025-07-25T15:42:12.124674,Self-enabling full-range extranet Standard,3,468.19,0.0
+Shawn Bates,williamsmatthew@example.org,145,2025-07-25T15:42:12.124674,Universal methodical customer loyalty Basic,5,613.77,0.0
+David Dalton,timperez@example.org,25,2025-07-22T12:25:45.939905,Grass-roots zero tolerance circuit Deluxe,3,40.43,0.0
+Joseph Perry,yjones@example.org,148,2025-07-22T10:08:33.560753,Focused systemic algorithm Premium,4,76.42,0.0
+Joseph Perry,yjones@example.org,148,2025-07-22T10:08:33.560753,User-centric systematic initiative Premium,4,677.15,0.0
+Joseph Perry,yjones@example.org,148,2025-07-22T10:08:33.560753,Reactive leadingedge knowledgebase Premium,2,457.96,0.0
+Joseph Perry,yjones@example.org,148,2025-07-22T10:08:33.560753,Enhanced scalable task-force Basic,2,553.47,0.0
+Matthew Davis,jeffrey46@example.com,92,2025-07-22T03:02:59.439600,Optimized even-keeled application Basic,2,12.2,1111.71
+Matthew Davis,jeffrey46@example.com,92,2025-07-22T03:02:59.439600,Virtual high-level strategy Deluxe,5,208.37,1111.71
+Matthew Davis,jeffrey46@example.com,92,2025-07-22T03:02:59.439600,Realigned holistic capability Basic,4,6.52,1111.71
+Christopher Tran,kimberly04@example.org,150,2025-07-21T17:39:33.661514,Self-enabling full-range extranet Standard,2,468.19,0.0
+Amy Lopez,cwood@example.org,45,2025-07-20T03:46:10.025508,Pre-emptive asymmetric core Standard,5,897.81,0.0
+Amy Lopez,cwood@example.org,45,2025-07-20T03:46:10.025508,Face-to-face demand-driven implementation Standard,2,472.57,0.0
+Amy Lopez,cwood@example.org,45,2025-07-20T03:46:10.025508,Ergonomic client-server interface Standard,4,240.19,0.0
+Amy Lopez,cwood@example.org,45,2025-07-20T03:46:10.025508,User-centric fault-tolerant software Pro,3,328.3,0.0
+Amy Lopez,cwood@example.org,45,2025-07-20T03:46:10.025508,Persistent bi-directional artificial intelligence Deluxe,2,74.53,0.0
+Jessica Adams,mariahmiller@example.com,158,2025-07-14T19:06:48.621341,Programmable systemic hierarchy Deluxe,1,730.16,6368.69
+Jessica Adams,mariahmiller@example.com,158,2025-07-14T19:06:48.621341,Automated system-worthy open system Premium,5,841.58,6368.69
+Jessica Adams,mariahmiller@example.com,158,2025-07-14T19:06:48.621341,Reactive user-facing Graphic Interface Deluxe,1,602.03,6368.69
+Jessica Adams,mariahmiller@example.com,158,2025-07-14T19:06:48.621341,User-centric fault-tolerant software Pro,2,386.24,6368.69
+Kaitlin Thompson,richard04@example.com,105,2025-07-13T19:44:53.857586,Adaptive actuating throughput Basic,2,669.56,1384.7
+Donald Price,baileyhenderson@example.com,87,2025-07-13T04:07:26.479306,User-friendly stable encoding Premium,5,744.41,0.0
+Donald Price,baileyhenderson@example.com,87,2025-07-13T04:07:26.479306,Centralized methodical capability Premium,1,743.95,0.0
+Donald Price,baileyhenderson@example.com,87,2025-07-13T04:07:26.479306,Centralized multi-state framework Deluxe,5,66.24,0.0
+Donald Price,baileyhenderson@example.com,87,2025-07-13T04:07:26.479306,Re-engineered contextually-based instruction set Premium,4,803.41,0.0
+Donald Price,baileyhenderson@example.com,87,2025-07-13T04:07:26.479306,Ergonomic object-oriented capacity Deluxe,3,594.8,0.0
+Ryan Morales,fosterkyle@example.com,120,2025-07-05T21:13:03.001592,Pre-emptive asymmetric core Standard,5,673.36,3394.15
+Cindy Jimenez,nwolf@example.com,55,2025-07-04T14:49:43.425863,Quality-focused regional Graphical User Interface Pro,3,750.52,6565.73
+Cindy Jimenez,nwolf@example.com,55,2025-07-04T14:49:43.425863,User-friendly stable encoding Premium,5,595.53,6565.73
+Cindy Jimenez,nwolf@example.com,55,2025-07-04T14:49:43.425863,User-centric fault-tolerant software Pro,4,328.3,6565.73
+James Rhodes,jeremywiley@example.com,91,2025-07-04T00:44:06.549742,Programmable systemic hierarchy Deluxe,5,730.16,5509.18
+James Rhodes,jeremywiley@example.com,91,2025-07-04T00:44:06.549742,Switchable heuristic Graphical User Interface Premium,2,403.24,5509.18
+James Rhodes,jeremywiley@example.com,91,2025-07-04T00:44:06.549742,Triple-buffered executive interface Standard,3,341.62,5509.18
+Jamie Webb,udavis@example.net,79,2025-07-03T20:38:03.214599,Automated system-worthy open system Premium,5,748.07,0.0
+Jamie Webb,udavis@example.net,79,2025-07-03T20:38:03.214599,Programmable user-facing extranet Standard,5,283.24,0.0
+Jamie Webb,udavis@example.net,79,2025-07-03T20:38:03.214599,Customizable encompassing approach Deluxe,2,330.22,0.0
+Jamie Webb,udavis@example.net,79,2025-07-03T20:38:03.214599,User-centric systematic initiative Premium,1,609.43,0.0
+Jamie Webb,udavis@example.net,79,2025-07-03T20:38:03.214599,Adaptive coherent firmware Basic,4,491.2,0.0
+Valerie Thomas,kimberlyfreeman@example.net,27,2025-07-02T00:05:55.804838,Programmable systemic hierarchy Deluxe,1,730.16,0.0
+Valerie Thomas,kimberlyfreeman@example.net,27,2025-07-02T00:05:55.804838,Programmable user-facing extranet Standard,2,212.43,0.0
+Valerie Thomas,kimberlyfreeman@example.net,27,2025-07-02T00:05:55.804838,User-centric fault-tolerant software Pro,5,308.99,0.0
+Valerie Thomas,kimberlyfreeman@example.net,27,2025-07-02T00:05:55.804838,Reactive user-facing Graphic Interface Deluxe,5,668.92,0.0
+David Wilson,jimenezchelsea@example.com,65,2025-06-28T08:58:25.499929,Inverse attitude-oriented strategy Premium,2,755.7,5970.09
+David Wilson,jimenezchelsea@example.com,65,2025-06-28T08:58:25.499929,Centralized didactic access Basic,5,446.76,5970.09
+David Wilson,jimenezchelsea@example.com,65,2025-06-28T08:58:25.499929,Balanced foreground hardware Standard,4,544.03,5970.09
+Michael Foster,aprilmclaughlin@example.org,155,2025-06-25T06:21:24.275776,Automated system-worthy open system Premium,2,935.09,0.0
+Michael Foster,aprilmclaughlin@example.org,155,2025-06-25T06:21:24.275776,Ergonomic object-oriented capacity Deluxe,1,660.89,0.0
+Michael Foster,aprilmclaughlin@example.org,155,2025-06-25T06:21:24.275776,Managed incremental projection Pro,5,79.63,0.0
+David Smith,fmedina@example.com,19,2025-06-23T13:28:42.695774,Enterprise-wide hybrid analyzer Premium,1,300.52,0.0
+David Smith,fmedina@example.com,19,2025-06-23T13:28:42.695774,Fundamental web-enabled strategy Premium,3,679.24,0.0
+Hannah Brewer,bwest@example.org,112,2025-06-18T08:25:40.750980,Fundamental web-enabled strategy Premium,5,679.24,0.0
+Melissa Cannon,wwoods@example.com,106,2025-06-11T07:06:00.202154,Exclusive scalable alliance Premium,5,475.63,7026.37
+Melissa Cannon,wwoods@example.com,106,2025-06-11T07:06:00.202154,Inverse empowering conglomeration Standard,3,941.41,7026.37
+Melissa Cannon,wwoods@example.com,106,2025-06-11T07:06:00.202154,Advanced client-server throughput Basic,3,598.08,7026.37
+Michael Davis,marypeterson@example.net,38,2025-06-09T03:26:18.404454,Reduced 5thgeneration secured line Deluxe,3,661.84,8729.21
+Michael Davis,marypeterson@example.net,38,2025-06-09T03:26:18.404454,Business-focused system-worthy model Basic,4,725.0,8729.21
+Michael Davis,marypeterson@example.net,38,2025-06-09T03:26:18.404454,Object-based asynchronous moderator Basic,4,771.82,8729.21
+Michael Davis,marypeterson@example.net,38,2025-06-09T03:26:18.404454,Synchronized upward-trending synergy Deluxe,4,110.9,8729.21
+Michael Davis,marypeterson@example.net,38,2025-06-09T03:26:18.404454,Horizontal 6thgeneration challenge Deluxe,1,264.59,8729.21
+Joshua Padilla,raylauren@example.net,3,2025-06-05T18:25:17.466108,Inverse empowering conglomeration Standard,5,753.13,0.0
+Joshua Padilla,raylauren@example.net,3,2025-06-05T18:25:17.466108,Persistent bi-directional artificial intelligence Deluxe,2,74.53,0.0
+Joshua Padilla,raylauren@example.net,3,2025-06-05T18:25:17.466108,Virtual needs-based middleware Pro,2,581.44,0.0
+Richard Morgan,wrightjames@example.com,103,2025-05-30T13:53:54.384564,Versatile 24/7 solution Deluxe,3,673.65,0.0
+Richard Morgan,wrightjames@example.com,103,2025-05-30T13:53:54.384564,Balanced foreground hardware Standard,5,640.03,0.0
+Richard Morgan,wrightjames@example.com,103,2025-05-30T13:53:54.384564,Virtual multi-state knowledgebase Premium,5,248.62,0.0
+Richard Morgan,wrightjames@example.com,103,2025-05-30T13:53:54.384564,Profound optimal matrix Premium,5,25.73,0.0
+Richard Morgan,wrightjames@example.com,103,2025-05-30T13:53:54.384564,Versatile scalable workforce Premium,4,969.17,0.0
+Krystal Ward,rodriguezjohn@example.net,8,2025-05-23T14:39:02.875118,Automated attitude-oriented capability Deluxe,2,368.47,8629.14
+Krystal Ward,rodriguezjohn@example.net,8,2025-05-23T14:39:02.875118,Versatile 24/7 solution Deluxe,3,673.65,8629.14
+Krystal Ward,rodriguezjohn@example.net,8,2025-05-23T14:39:02.875118,Adaptive actuating throughput Basic,4,669.56,8629.14
+Krystal Ward,rodriguezjohn@example.net,8,2025-05-23T14:39:02.875118,Secured 4thgeneration forecast Standard,4,787.91,8629.14
+Julie Dunn,kingdanielle@example.org,99,2025-05-22T18:44:57.008760,Re-engineered contextually-based instruction set Premium,3,642.73,0.0
+Julie Dunn,kingdanielle@example.org,99,2025-05-22T18:44:57.008760,Profound optimal matrix Premium,4,30.27,0.0
+Julie Dunn,kingdanielle@example.org,99,2025-05-22T18:44:57.008760,Organized human-resource help-desk Pro,2,778.91,0.0
+Steven Sanders,maldonadojohn@example.com,81,2025-05-18T15:30:24.482442,Future-proofed full-range flexibility Deluxe,5,159.86,0.0
+Jamie Webb,udavis@example.net,68,2025-05-16T01:30:11.320331,Pre-emptive asymmetric core Standard,3,763.14,4267.84
+Jamie Webb,udavis@example.net,68,2025-05-16T01:30:11.320331,Balanced foreground hardware Standard,3,640.03,4267.84
+Sabrina Collins,tanderson@example.org,12,2025-05-12T09:57:53.226291,Customizable fault-tolerant knowledge user Deluxe,2,183.47,0.0
+Sabrina Collins,tanderson@example.org,12,2025-05-12T09:57:53.226291,Organized human-resource help-desk Pro,1,778.91,0.0
+Sabrina Collins,tanderson@example.org,12,2025-05-12T09:57:53.226291,Focused systemic algorithm Premium,2,68.78,0.0
+Sabrina Collins,tanderson@example.org,12,2025-05-12T09:57:53.226291,Future-proofed executive synergy Premium,1,926.2,0.0
+Sabrina Collins,tanderson@example.org,12,2025-05-12T09:57:53.226291,User-centric optimal algorithm Deluxe,2,511.42,0.0
+Kyle Gutierrez,kevinsmith@example.org,90,2025-05-11T00:06:44.095639,Persistent clear-thinking array Pro,4,661.59,0.0
+Kyle Gutierrez,kevinsmith@example.org,90,2025-05-11T00:06:44.095639,Switchable user-facing open system Premium,1,231.03,0.0
+Kyle Gutierrez,kevinsmith@example.org,90,2025-05-11T00:06:44.095639,Automated attitude-oriented capability Deluxe,3,491.29,0.0
+Elizabeth Mills,carlos88@example.net,20,2025-05-09T21:45:43.434556,Adaptive actuating throughput Basic,4,535.65,0.0
+Elizabeth Mills,carlos88@example.net,20,2025-05-09T21:45:43.434556,Compatible high-level alliance Basic,3,458.67,0.0
+Elizabeth Mills,carlos88@example.net,20,2025-05-09T21:45:43.434556,Automated global instruction set Pro,4,209.0,0.0
+Cory Miles,russellbeasley@example.com,73,2025-05-06T23:06:55.793054,Secured tangible structure Premium,2,368.73,771.36
+Ashley Krause,lisale@example.org,48,2025-05-05T21:01:13.471755,Synchronized bi-directional strategy Deluxe,5,137.62,0.0
+Ashley Krause,lisale@example.org,48,2025-05-05T21:01:13.471755,User-friendly stable encoding Premium,3,744.41,0.0
+Ashley Krause,lisale@example.org,48,2025-05-05T21:01:13.471755,Implemented discrete moderator Pro,1,595.63,0.0
+Ashley Krause,lisale@example.org,48,2025-05-05T21:01:13.471755,Synchronized upward-trending synergy Deluxe,2,88.72,0.0
+Ashley Krause,lisale@example.org,48,2025-05-05T21:01:13.471755,Business-focused system-worthy model Basic,2,725.0,0.0
+Cynthia Faulkner,markramirez@example.com,23,2025-05-01T21:14:21.356764,Pre-emptive asymmetric core Standard,3,718.25,0.0
+Cynthia Faulkner,markramirez@example.com,23,2025-05-01T21:14:21.356764,Triple-buffered executive interface Standard,3,427.03,0.0
+Cynthia Faulkner,markramirez@example.com,23,2025-05-01T21:14:21.356764,Inverse optimizing paradigm Basic,1,580.98,0.0
+John Ferguson,gallagherstacie@example.net,151,2025-05-01T08:37:30.745571,Synchronized upward-trending synergy Deluxe,2,88.72,2363.42
+John Ferguson,gallagherstacie@example.net,151,2025-05-01T08:37:30.745571,Synchronized bi-directional strategy Deluxe,1,183.49,2363.42
+John Ferguson,gallagherstacie@example.net,151,2025-05-01T08:37:30.745571,User-friendly stable encoding Premium,1,744.41,2363.42
+John Ferguson,gallagherstacie@example.net,151,2025-05-01T08:37:30.745571,Integrated content-based analyzer Basic,4,310.36,2363.42
+Ryan Morales,fosterkyle@example.com,137,2025-04-26T23:15:51.523586,Pre-emptive asymmetric core Standard,3,763.14,0.0
+Sophia Torres,pwilson@example.net,180,2025-04-25T14:16:49.259199,Seamless full-range capability Deluxe,1,701.26,766.89
+Shannon Walton,katie87@example.net,169,2025-04-20T11:15:01.954752,Synchronized bandwidth-monitored database Deluxe,1,300.46,839.4
+Shannon Walton,katie87@example.net,169,2025-04-20T11:15:01.954752,Automated attitude-oriented capability Deluxe,1,491.29,839.4
+Darlene Montgomery,haynescharles@example.net,80,2025-04-20T08:16:47.160302,Ergonomic object-oriented capacity Deluxe,2,594.8,7369.84
+Darlene Montgomery,haynescharles@example.net,80,2025-04-20T08:16:47.160302,Automated dedicated complexity Deluxe,2,548.31,7369.84
+Darlene Montgomery,haynescharles@example.net,80,2025-04-20T08:16:47.160302,Reactive user-facing Graphic Interface Deluxe,1,535.14,7369.84
+Darlene Montgomery,haynescharles@example.net,80,2025-04-20T08:16:47.160302,Universal methodical customer loyalty Basic,5,767.21,7369.84
+Darlene Montgomery,haynescharles@example.net,80,2025-04-20T08:16:47.160302,Customizable encompassing approach Deluxe,2,330.22,7369.84
+Jessica Edwards,cruzbarbara@example.com,70,2025-04-19T22:03:21.127371,Secured tangible structure Premium,3,491.64,6335.62
+Jessica Edwards,cruzbarbara@example.com,70,2025-04-19T22:03:21.127371,Streamlined homogeneous focus group Standard,3,257.39,6335.62
+Jessica Edwards,cruzbarbara@example.com,70,2025-04-19T22:03:21.127371,Phased heuristic encryption Basic,5,428.94,6335.62
+Jessica Edwards,cruzbarbara@example.com,70,2025-04-19T22:03:21.127371,Inverse empowering conglomeration Standard,2,941.41,6335.62
+Shawn Bates,williamsmatthew@example.org,102,2025-04-16T17:47:39.458684,Triple-buffered executive interface Standard,4,384.33,0.0
+Shawn Bates,williamsmatthew@example.org,102,2025-04-16T17:47:39.458684,Automated dedicated complexity Deluxe,1,548.31,0.0
+Shawn Bates,williamsmatthew@example.org,102,2025-04-16T17:47:39.458684,User-centric optimal algorithm Deluxe,3,639.28,0.0
+Shawn Bates,williamsmatthew@example.org,102,2025-04-16T17:47:39.458684,Implemented discrete moderator Pro,2,675.04,0.0
+Shawn Bates,williamsmatthew@example.org,102,2025-04-16T17:47:39.458684,Inverse attitude-oriented strategy Premium,1,755.7,0.0
+Carrie Simmons,cbell@example.net,168,2025-04-13T23:12:37.722340,Universal methodical customer loyalty Basic,4,767.21,0.0
+Carrie Simmons,cbell@example.net,168,2025-04-13T23:12:37.722340,Automated attitude-oriented capability Deluxe,3,491.29,0.0
+Carrie Simmons,cbell@example.net,168,2025-04-13T23:12:37.722340,Switchable user-facing open system Premium,3,308.04,0.0
+Carrie Simmons,cbell@example.net,168,2025-04-13T23:12:37.722340,Balanced systemic policy Premium,5,145.33,0.0
+Donald Morris,adamreyes@example.com,104,2025-04-10T21:14:44.954175,Streamlined homogeneous focus group Standard,3,302.81,925.5500000000001
+Ronald Forbes,nicoleturner@example.com,52,2025-04-10T02:32:31.127425,Phased heuristic encryption Basic,2,428.94,914.53
+James Rhodes,jeremywiley@example.com,149,2025-04-04T22:21:32.998762,Programmable user-facing extranet Standard,3,254.92,768.79
+Michael Davis,marypeterson@example.net,69,2025-04-04T02:59:05.450372,Programmable user-facing extranet Standard,2,283.24,0.0
+Michael Davis,marypeterson@example.net,69,2025-04-04T02:59:05.450372,Switchable user-facing open system Premium,1,231.03,0.0
+Michael Davis,marypeterson@example.net,69,2025-04-04T02:59:05.450372,Implemented discrete moderator Pro,3,794.17,0.0
+Lisa Davis,ncarroll@example.net,17,2025-03-30T22:48:31.079175,Synchronized bandwidth-monitored database Deluxe,3,255.39,5409.879999999999
+Lisa Davis,ncarroll@example.net,17,2025-03-30T22:48:31.079175,Balanced foreground hardware Standard,2,480.02,5409.879999999999
+Lisa Davis,ncarroll@example.net,17,2025-03-30T22:48:31.079175,Realigned holistic capability Basic,4,7.67,5409.879999999999
+Lisa Davis,ncarroll@example.net,17,2025-03-30T22:48:31.079175,Automated system-worthy open system Premium,2,935.09,5409.879999999999
+Lisa Davis,ncarroll@example.net,17,2025-03-30T22:48:31.079175,Triple-buffered executive interface Standard,4,427.03,5409.879999999999
+Lisa Carr,zunigadonald@example.net,164,2025-03-30T18:30:06.141484,Organized human-resource help-desk Pro,2,865.45,0.0
+Lisa Carr,zunigadonald@example.net,164,2025-03-30T18:30:06.141484,Synchronized bi-directional strategy Deluxe,5,155.97,0.0
+Lisa Carr,zunigadonald@example.net,164,2025-03-30T18:30:06.141484,Automated attitude-oriented capability Deluxe,4,491.29,0.0
+Yvonne Chambers,barbara27@example.net,175,2025-03-29T12:53:41.574399,Quality-focused optimizing firmware Basic,4,388.87,5131.129999999999
+Yvonne Chambers,barbara27@example.net,175,2025-03-29T12:53:41.574399,Secured 4thgeneration forecast Standard,3,926.95,5131.129999999999
+Yvonne Chambers,barbara27@example.net,175,2025-03-29T12:53:41.574399,Ergonomic client-server interface Standard,3,254.32,5131.129999999999
+Anthony Collins,tsanders@example.org,163,2025-03-28T08:44:05.407112,Reduced 5thgeneration secured line Deluxe,5,735.38,0.0
+Charles Ware,amydavenport@example.net,74,2025-03-27T09:40:39.360503,Automated attitude-oriented capability Deluxe,4,491.29,0.0
+Edgar Mendez,deborahporter@example.net,95,2025-03-24T04:26:25.511931,User-centric optimal algorithm Deluxe,5,479.46,2417.14
+Michael Bennett,kkramer@example.net,122,2025-03-23T14:54:18.810934,Self-enabling object-oriented toolset Basic,4,468.07,0.0
+Michael Bennett,kkramer@example.net,122,2025-03-23T14:54:18.810934,Centralized didactic access Basic,1,558.45,0.0
+Michael Bennett,kkramer@example.net,122,2025-03-23T14:54:18.810934,Compatible high-level alliance Basic,3,458.67,0.0
+Michael Bennett,kkramer@example.net,122,2025-03-23T14:54:18.810934,Balanced foreground hardware Standard,5,640.03,0.0
+Michael Bennett,kkramer@example.net,122,2025-03-23T14:54:18.810934,Realigned holistic capability Basic,4,6.52,0.0
+Gary Hill,todd15@example.com,173,2025-03-23T11:08:10.621312,Streamlined homogeneous focus group Standard,1,302.81,0.0
+Amy Lopez,cwood@example.org,60,2025-03-18T19:14:27.759047,Seamless attitude-oriented hardware Standard,3,59.36,4478.95
+Amy Lopez,cwood@example.org,60,2025-03-18T19:14:27.759047,Programmable user-facing extranet Standard,3,283.24,4478.95
+Amy Lopez,cwood@example.org,60,2025-03-18T19:14:27.759047,Virtual high-level strategy Deluxe,1,208.37,4478.95
+Amy Lopez,cwood@example.org,60,2025-03-18T19:14:27.759047,Balanced foreground hardware Standard,5,640.03,4478.95
+Chelsey Patterson,kristenli@example.org,132,2025-03-18T11:34:08.299577,Extended coherent middleware Pro,2,932.16,4316.16
+Chelsey Patterson,kristenli@example.org,132,2025-03-18T11:34:08.299577,Ergonomic value-added budgetary management Standard,4,190.42,4316.16
+Chelsey Patterson,kristenli@example.org,132,2025-03-18T11:34:08.299577,Reduced 5thgeneration secured line Deluxe,2,735.38,4316.16
+Chelsey Patterson,kristenli@example.org,132,2025-03-18T11:34:08.299577,Multi-channeled actuating interface Standard,3,67.07,4316.16
+Kaitlin Thompson,richard04@example.com,174,2025-03-18T01:35:07.924163,Profound real-time complexity Standard,4,670.85,0.0
+Kaitlin Thompson,richard04@example.com,174,2025-03-18T01:35:07.924163,Triple-buffered executive interface Standard,4,384.33,0.0
+Christopher Tran,kimberly04@example.org,136,2025-03-17T23:30:47.570988,Automated attitude-oriented capability Deluxe,5,417.6,6789.700000000001
+Christopher Tran,kimberly04@example.org,136,2025-03-17T23:30:47.570988,Self-enabling system-worthy help-desk Basic,5,62.53,6789.700000000001
+Christopher Tran,kimberly04@example.org,136,2025-03-17T23:30:47.570988,Stand-alone impactful attitude Standard,4,243.1,6789.700000000001
+Christopher Tran,kimberly04@example.org,136,2025-03-17T23:30:47.570988,Re-engineered contextually-based instruction set Premium,4,803.41,6789.700000000001
+Christopher Tran,kimberly04@example.org,136,2025-03-17T23:30:47.570988,Managed incremental projection Pro,2,71.67,6789.700000000001
+Ashley Krause,lisale@example.org,172,2025-03-17T14:30:05.719071,Expanded fault-tolerant Internet solution Premium,3,701.77,2772.1
+Ashley Krause,lisale@example.org,172,2025-03-17T14:30:05.719071,User-friendly stable encoding Premium,1,632.75,2772.1
+Felicia Lopez,jillwilson@example.org,9,2025-03-16T21:10:25.806269,Implemented leadingedge core Premium,3,98.82,1096.16
+Felicia Lopez,jillwilson@example.org,9,2025-03-16T21:10:25.806269,Organized human-resource help-desk Pro,1,735.63,1096.16
+Cynthia Faulkner,markramirez@example.com,71,2025-03-14T22:38:43.006787,Optimized even-keeled application Basic,3,12.2,0.0
+Cynthia Faulkner,markramirez@example.com,71,2025-03-14T22:38:43.006787,Universal methodical customer loyalty Basic,5,575.41,0.0
+Cynthia Faulkner,markramirez@example.com,71,2025-03-14T22:38:43.006787,Automated global instruction set Pro,5,278.66,0.0
+Cynthia Faulkner,markramirez@example.com,71,2025-03-14T22:38:43.006787,Exclusive scalable alliance Premium,2,594.54,0.0
+Michael Davis,marypeterson@example.net,113,2025-03-14T00:15:09.444176,Up-sized global intranet Standard,4,462.66,3428.1400000000003
+Michael Davis,marypeterson@example.net,113,2025-03-14T00:15:09.444176,Quality-focused optimizing firmware Basic,1,388.87,3428.1400000000003
+Michael Davis,marypeterson@example.net,113,2025-03-14T00:15:09.444176,Implemented leadingedge core Premium,5,98.82,3428.1400000000003
+Michael Davis,marypeterson@example.net,113,2025-03-14T00:15:09.444176,Devolved background superstructure Pro,4,13.14,3428.1400000000003
+Michael Davis,marypeterson@example.net,113,2025-03-14T00:15:09.444176,Public-key content-based array Pro,2,299.05,3428.1400000000003
+Christian King,zacharygomez@example.com,30,2025-03-13T20:55:23.186279,Virtual multi-state knowledgebase Premium,1,264.15,2141.31
+Christian King,zacharygomez@example.com,30,2025-03-13T20:55:23.186279,Enhanced scalable task-force Basic,3,614.97,2141.31
+Jeffrey Rodriguez,danny49@example.org,133,2025-03-13T18:54:39.342248,Centralized multi-state framework Deluxe,2,52.99,7088.21
+Jeffrey Rodriguez,danny49@example.org,133,2025-03-13T18:54:39.342248,Fundamental web-enabled strategy Premium,5,509.43,7088.21
+Jeffrey Rodriguez,danny49@example.org,133,2025-03-13T18:54:39.342248,Devolved background superstructure Pro,4,9.86,7088.21
+Jeffrey Rodriguez,danny49@example.org,133,2025-03-13T18:54:39.342248,Ergonomic value-added budgetary management Standard,4,158.68,7088.21
+Jeffrey Rodriguez,danny49@example.org,133,2025-03-13T18:54:39.342248,Automated system-worthy open system Premium,4,935.09,7088.21
+Gabriel Walton,john40@example.net,152,2025-03-13T11:28:35.412535,Streamlined dynamic info-mediaries Premium,5,584.34,3499.57
+Gabriel Walton,john40@example.net,152,2025-03-13T11:28:35.412535,Phased interactive database Pro,1,563.53,3499.57
+Robin James,tylerjohnson@example.net,111,2025-03-11T23:39:02.565889,Centralized homogeneous info-mediaries Pro,2,599.58,0.0
+Robin James,tylerjohnson@example.net,111,2025-03-11T23:39:02.565889,Virtual needs-based middleware Pro,4,465.15,0.0
+Robin James,tylerjohnson@example.net,111,2025-03-11T23:39:02.565889,Secured 4thgeneration forecast Standard,1,926.95,0.0
+Rachel Marshall,erica21@example.com,140,2025-03-11T09:32:25.752344,Secured bandwidth-monitored task-force Standard,5,83.07,0.0
+Rachel Marshall,erica21@example.com,140,2025-03-11T09:32:25.752344,Balanced systemic policy Premium,5,130.8,0.0
+Cynthia Faulkner,markramirez@example.com,13,2025-03-10T21:14:11.181571,Universal methodical customer loyalty Basic,5,767.21,12106.79
+Cynthia Faulkner,markramirez@example.com,13,2025-03-10T21:14:11.181571,Re-contextualized clear-thinking array Basic,5,446.46,12106.79
+Cynthia Faulkner,markramirez@example.com,13,2025-03-10T21:14:11.181571,Self-enabling system-worthy help-desk Basic,2,56.28,12106.79
+Cynthia Faulkner,markramirez@example.com,13,2025-03-10T21:14:11.181571,Object-based asynchronous moderator Basic,4,857.58,12106.79
+Cynthia Faulkner,markramirez@example.com,13,2025-03-10T21:14:11.181571,Up-sized global intranet Standard,5,491.58,12106.79
+Joseph Perry,yjones@example.org,161,2025-03-10T18:16:19.287413,Streamlined dynamic info-mediaries Premium,1,779.12,0.0
+Donald Morris,adamreyes@example.com,89,2025-03-09T01:55:14.581073,Reactive user-facing Graphic Interface Deluxe,2,535.14,0.0
+Donald Morris,adamreyes@example.com,89,2025-03-09T01:55:14.581073,Integrated content-based analyzer Basic,2,263.81,0.0
+Donald Morris,adamreyes@example.com,89,2025-03-09T01:55:14.581073,Exclusive scalable alliance Premium,3,475.63,0.0
+Donald Morris,adamreyes@example.com,89,2025-03-09T01:55:14.581073,Phased heuristic encryption Basic,4,364.6,0.0
+Tammy Hart,katherineali@example.com,26,2025-03-08T07:20:35.311824,Inverse attitude-oriented strategy Premium,4,642.34,5092.36
+Tammy Hart,katherineali@example.com,26,2025-03-08T07:20:35.311824,Organic attitude-oriented policy Premium,3,606.48,5092.36
+Tammy Hart,katherineali@example.com,26,2025-03-08T07:20:35.311824,Exclusive scalable alliance Premium,1,594.54,5092.36
+Tammy Hart,katherineali@example.com,26,2025-03-08T07:20:35.311824,Optimized even-keeled application Basic,5,12.96,5092.36
+Rachel Marshall,erica21@example.com,33,2025-03-07T18:38:34.064007,Virtual multi-state knowledgebase Premium,4,248.62,0.0
+Rachel Marshall,erica21@example.com,33,2025-03-07T18:38:34.064007,User-friendly stable encoding Premium,5,744.41,0.0
+Rachel Marshall,erica21@example.com,33,2025-03-07T18:38:34.064007,Seamless attitude-oriented hardware Standard,2,59.36,0.0
+Rachel Marshall,erica21@example.com,33,2025-03-07T18:38:34.064007,Operative tertiary knowledgebase Basic,1,735.62,0.0
+Christopher Tran,kimberly04@example.org,57,2025-03-04T17:01:02.700590,Automated global instruction set Pro,2,250.79,2120.75
+Christopher Tran,kimberly04@example.org,57,2025-03-04T17:01:02.700590,Seamless attitude-oriented hardware Standard,5,62.85,2120.75
+Christopher Tran,kimberly04@example.org,57,2025-03-04T17:01:02.700590,User-centric optimal algorithm Deluxe,2,639.28,2120.75
+Leah Shields,josephcobb@example.org,108,2025-03-02T10:04:11.825428,Re-engineered contextually-based instruction set Premium,2,642.73,1349.17
+Brandon Schultz,bartonshannon@example.net,64,2025-02-26T23:27:47.081068,Inverse optimizing paradigm Basic,3,726.23,2871.45
+Brandon Schultz,bartonshannon@example.net,64,2025-02-26T23:27:47.081068,Universal methodical customer loyalty Basic,1,652.13,2871.45
+Erica Le,courtneyberger@example.net,144,2025-02-26T09:38:04.383138,Reduced 5thgeneration secured line Deluxe,1,588.3,622.76
+Margaret Gill,foxallison@example.com,31,2025-02-23T20:35:39.651815,Horizontal 6thgeneration challenge Deluxe,2,224.9,5085.05
+Margaret Gill,foxallison@example.com,31,2025-02-23T20:35:39.651815,Public-key content-based array Pro,5,332.28,5085.05
+Margaret Gill,foxallison@example.com,31,2025-02-23T20:35:39.651815,Organic discrete middleware Basic,1,681.43,5085.05
+Margaret Gill,foxallison@example.com,31,2025-02-23T20:35:39.651815,Reactive leadingedge knowledgebase Premium,2,508.84,5085.05
+Margaret Gill,foxallison@example.com,31,2025-02-23T20:35:39.651815,Virtual multi-state knowledgebase Premium,4,310.77,5085.05
+Michael Foster,aprilmclaughlin@example.org,37,2025-02-23T01:13:23.756460,Self-enabling object-oriented toolset Basic,2,397.86,4162.92
+Michael Foster,aprilmclaughlin@example.org,37,2025-02-23T01:13:23.756460,Multi-channeled background Graphic Interface Premium,5,373.3,4162.92
+Michael Foster,aprilmclaughlin@example.org,37,2025-02-23T01:13:23.756460,Streamlined dynamic info-mediaries Premium,1,779.12,4162.92
+Michael Foster,aprilmclaughlin@example.org,37,2025-02-23T01:13:23.756460,Seamless full-range capability Deluxe,1,631.13,4162.92
+Michael Foster,aprilmclaughlin@example.org,37,2025-02-23T01:13:23.756460,Optimized even-keeled application Basic,2,12.2,4162.92
+Sabrina Collins,tanderson@example.org,56,2025-02-22T17:57:33.418448,Public-key content-based array Pro,3,332.28,0.0
+Sabrina Collins,tanderson@example.org,56,2025-02-22T17:57:33.418448,Triple-buffered executive interface Standard,3,320.27,0.0
+Heather Garcia,dennismccann@example.com,178,2025-02-22T00:58:35.637404,Secured bandwidth-monitored task-force Standard,5,97.73,0.0
+Grant Ward,davidharris@example.org,10,2025-02-19T07:31:33.771537,Virtual multi-state knowledgebase Premium,3,310.77,946.53
+Charles Ware,amydavenport@example.net,167,2025-02-18T13:47:30.658354,Profound real-time complexity Standard,2,603.76,0.0
+Charles Ware,amydavenport@example.net,167,2025-02-18T13:47:30.658354,User-friendly stable encoding Premium,1,744.41,0.0
+Charles Ware,amydavenport@example.net,167,2025-02-18T13:47:30.658354,Persistent clear-thinking array Pro,3,705.7,0.0
+Charles Ware,amydavenport@example.net,167,2025-02-18T13:47:30.658354,Multi-channeled background Graphic Interface Premium,3,373.3,0.0
+Charles Ware,amydavenport@example.net,167,2025-02-18T13:47:30.658354,Self-enabling full-range extranet Standard,3,468.19,0.0
+Kyle Gutierrez,kevinsmith@example.org,77,2025-02-15T22:48:41.883545,Reactive bottom-line hub Premium,3,55.91,227.2
+Sophia Torres,pwilson@example.net,98,2025-02-06T04:48:13.283830,Enterprise-wide hybrid analyzer Premium,4,353.55,0.0
+Sophia Torres,pwilson@example.net,98,2025-02-06T04:48:13.283830,Focused systemic algorithm Premium,1,76.42,0.0
+Sophia Torres,pwilson@example.net,98,2025-02-06T04:48:13.283830,Streamlined homogeneous focus group Standard,5,302.81,0.0
+Sophia Torres,pwilson@example.net,98,2025-02-06T04:48:13.283830,Integrated content-based analyzer Basic,2,310.36,0.0
+Sophia Torres,pwilson@example.net,98,2025-02-06T04:48:13.283830,Centralized didactic access Basic,5,502.61,0.0
+Katrina Duran,mark07@example.net,176,2025-02-06T01:01:05.447752,Reactive user-facing Graphic Interface Deluxe,2,668.92,5465.36
+Katrina Duran,mark07@example.net,176,2025-02-06T01:01:05.447752,Configurable multi-state core Deluxe,2,83.01,5465.36
+Katrina Duran,mark07@example.net,176,2025-02-06T01:01:05.447752,Self-enabling full-range extranet Standard,4,468.19,5465.36
+Katrina Duran,mark07@example.net,176,2025-02-06T01:01:05.447752,Streamlined dynamic info-mediaries Premium,2,662.25,5465.36
+Katrina Duran,mark07@example.net,176,2025-02-06T01:01:05.447752,Object-based asynchronous moderator Basic,1,728.94,5465.36
+Christopher Tran,kimberly04@example.org,76,2025-02-05T20:09:10.954714,Automated global instruction set Pro,2,278.66,0.0
+Troy Khan,amitchell@example.org,143,2025-02-03T20:52:39.716996,Stand-alone impactful attitude Standard,3,194.48,950.49
+Troy Khan,amitchell@example.org,143,2025-02-03T20:52:39.716996,Synchronized upward-trending synergy Deluxe,4,83.18,950.49
+Rachel Marshall,erica21@example.com,116,2025-02-03T06:58:49.250084,Persistent bi-directional artificial intelligence Deluxe,4,63.35,2971.8900000000003
+Rachel Marshall,erica21@example.com,116,2025-02-03T06:58:49.250084,Ergonomic object-oriented capacity Deluxe,4,660.89,2971.8900000000003
+Rachel Marshall,erica21@example.com,116,2025-02-03T06:58:49.250084,Realigned holistic capability Basic,3,6.52,2971.8900000000003
+Hannah Brewer,bwest@example.org,15,2025-02-03T06:17:46.614136,Operative tertiary knowledgebase Basic,5,980.83,4926.79
+Katrina Duran,mark07@example.net,11,2025-01-29T14:29:30.296509,Organic attitude-oriented policy Premium,4,808.64,0.0
+Katrina Duran,mark07@example.net,11,2025-01-29T14:29:30.296509,Enterprise-wide hybrid analyzer Premium,4,265.16,0.0
+Anne Torres,stevenvargas@example.com,170,2025-01-22T22:31:02.370810,Future-proofed web-enabled ability Premium,3,114.82,0.0
+Kenneth Ward,alexis82@example.com,121,2025-01-22T18:10:42.682682,Compatible high-level alliance Basic,5,458.67,0.0
+Kenneth Ward,alexis82@example.com,121,2025-01-22T18:10:42.682682,Multi-channeled actuating interface Standard,3,89.43,0.0
+Kenneth Ward,alexis82@example.com,121,2025-01-22T18:10:42.682682,Streamlined homogeneous focus group Standard,1,302.81,0.0
+Kenneth Ward,alexis82@example.com,121,2025-01-22T18:10:42.682682,Implemented discrete moderator Pro,3,794.17,0.0
+Kenneth Ward,alexis82@example.com,121,2025-01-22T18:10:42.682682,Expanded fault-tolerant Internet solution Premium,5,779.74,0.0
+Amber Hernandez,ericnunez@example.com,40,2025-01-22T04:38:56.498875,Quality-focused regional Graphical User Interface Pro,1,675.47,5462.32
+Amber Hernandez,ericnunez@example.com,40,2025-01-22T04:38:56.498875,Centralized homogeneous info-mediaries Pro,4,749.48,5462.32
+Amber Hernandez,ericnunez@example.com,40,2025-01-22T04:38:56.498875,Programmable systemic hierarchy Deluxe,2,730.16,5462.32
+Amber Hernandez,ericnunez@example.com,40,2025-01-22T04:38:56.498875,Grass-roots zero tolerance circuit Deluxe,1,42.81,5462.32
+Amber Hernandez,ericnunez@example.com,40,2025-01-22T04:38:56.498875,Configurable multi-state core Deluxe,4,66.41,5462.32
+Valerie Thomas,kimberlyfreeman@example.net,44,2025-01-21T10:23:17.670525,Triple-buffered executive interface Standard,5,427.03,0.0
+Valerie Thomas,kimberlyfreeman@example.net,44,2025-01-21T10:23:17.670525,Compatible high-level alliance Basic,3,412.8,0.0
+Valerie Thomas,kimberlyfreeman@example.net,44,2025-01-21T10:23:17.670525,Centralized multi-state framework Deluxe,1,52.99,0.0
+Charles Ware,amydavenport@example.net,147,2025-01-20T15:08:15.273984,Ergonomic client-server interface Standard,5,211.94,2416.99
+Charles Ware,amydavenport@example.net,147,2025-01-20T15:08:15.273984,Stand-alone impactful attitude Standard,3,243.1,2416.99
+Charles Ware,amydavenport@example.net,147,2025-01-20T15:08:15.273984,Virtual needs-based middleware Pro,1,581.44,2416.99
+Stacy Jackson,simsjason@example.net,159,2025-01-19T20:28:59.472861,Public-key content-based array Pro,4,265.82,0.0
+Stacy Jackson,simsjason@example.net,159,2025-01-19T20:28:59.472861,Self-enabling object-oriented toolset Basic,1,468.07,0.0
+Stacy Jackson,simsjason@example.net,159,2025-01-19T20:28:59.472861,Centralized multi-state framework Deluxe,4,66.24,0.0
+Stacy Jackson,simsjason@example.net,159,2025-01-19T20:28:59.472861,Grass-roots zero tolerance circuit Deluxe,5,47.57,0.0
+Kyle Gutierrez,kevinsmith@example.org,53,2025-01-18T18:15:17.495977,Quality-focused optimizing firmware Basic,3,388.87,0.0
+Kyle Gutierrez,kevinsmith@example.org,53,2025-01-18T18:15:17.495977,Inverse interactive utilization Standard,4,289.31,0.0
+Kyle Gutierrez,kevinsmith@example.org,53,2025-01-18T18:15:17.495977,Seamless attitude-oriented hardware Standard,5,59.36,0.0
+Kyle Gutierrez,kevinsmith@example.org,53,2025-01-18T18:15:17.495977,Operative tertiary knowledgebase Basic,3,735.62,0.0
+Kyle Gutierrez,kevinsmith@example.org,53,2025-01-18T18:15:17.495977,Ergonomic object-oriented capacity Deluxe,2,660.89,0.0
+Erin Carlson,djames@example.net,82,2025-01-18T17:51:57.380271,Up-sized global intranet Standard,2,578.33,3792.83
+Erin Carlson,djames@example.net,82,2025-01-18T17:51:57.380271,Centralized didactic access Basic,4,418.84,3792.83
+Erin Carlson,djames@example.net,82,2025-01-18T17:51:57.380271,Phased heuristic encryption Basic,2,428.94,3792.83
+Erin Carlson,djames@example.net,82,2025-01-18T17:51:57.380271,Centralized multi-state framework Deluxe,1,66.24,3792.83
+Spencer Henderson,smoore@example.org,134,2025-01-18T01:30:43.503795,Inverse attitude-oriented strategy Premium,1,755.7,785.8499999999999
+Anna Flores,cmartinez@example.org,5,2025-01-17T23:42:26.258193,Future-proofed web-enabled ability Premium,5,107.65,0.0
+Anna Flores,cmartinez@example.org,5,2025-01-17T23:42:26.258193,Centralized methodical capability Premium,4,669.56,0.0
+Anna Flores,cmartinez@example.org,5,2025-01-17T23:42:26.258193,Self-enabling full-range extranet Standard,4,374.55,0.0
+Sharon Hayden,nancy04@example.net,100,2025-01-17T05:26:40.603830,Programmable user-facing extranet Standard,1,283.24,0.0
+Marie Wise,jenniferwilliams@example.com,154,2025-01-16T09:19:32.152922,Centralized homogeneous info-mediaries Pro,3,637.06,0.0
+Lacey Rivera,brianrowe@example.org,24,2025-01-15T19:08:44.733190,Automated attitude-oriented capability Deluxe,2,491.29,0.0
+Lacey Rivera,brianrowe@example.org,24,2025-01-15T19:08:44.733190,Automated global instruction set Pro,2,209.0,0.0
+Lacey Rivera,brianrowe@example.org,24,2025-01-15T19:08:44.733190,Centralized didactic access Basic,1,558.45,0.0
+Danielle Johnson,john21@example.net,7,2025-01-15T02:46:02.881323,Ergonomic client-server interface Standard,5,282.58,0.0
+Danielle Johnson,john21@example.net,7,2025-01-15T02:46:02.881323,Centralized homogeneous info-mediaries Pro,3,749.48,0.0
+Danielle Johnson,john21@example.net,7,2025-01-15T02:46:02.881323,Virtual multi-state knowledgebase Premium,2,279.69,0.0
+Christopher Tran,kimberly04@example.org,114,2025-01-09T13:49:38.485898,Re-engineered contextually-based instruction set Premium,1,803.41,6368.1900000000005
+Christopher Tran,kimberly04@example.org,114,2025-01-09T13:49:38.485898,Object-based asynchronous moderator Basic,4,771.82,6368.1900000000005
+Christopher Tran,kimberly04@example.org,114,2025-01-09T13:49:38.485898,Versatile 24/7 solution Deluxe,4,606.28,6368.1900000000005
+Wayne Long,stephenmartinez@example.net,109,2025-01-08T21:08:09.310158,Synchronized bandwidth-monitored database Deluxe,3,255.39,0.0
+Wayne Long,stephenmartinez@example.net,109,2025-01-08T21:08:09.310158,Implemented leadingedge core Premium,1,98.82,0.0
+Mark Pugh,wareeric@example.net,156,2025-01-08T10:54:07.203302,Customizable encompassing approach Deluxe,2,264.18,0.0
+Mark Pugh,wareeric@example.net,156,2025-01-08T10:54:07.203302,User-friendly stable encoding Premium,5,558.31,0.0
+Mark Pugh,wareeric@example.net,156,2025-01-08T10:54:07.203302,User-centric optimal algorithm Deluxe,2,639.28,0.0
+Mark Pugh,wareeric@example.net,156,2025-01-08T10:54:07.203302,Synchronized upward-trending synergy Deluxe,1,110.9,0.0
+Katrina Duran,mark07@example.net,46,2025-01-04T10:04:16.703171,Automated attitude-oriented capability Deluxe,2,417.6,0.0
+Katrina Duran,mark07@example.net,46,2025-01-04T10:04:16.703171,Compatible high-level alliance Basic,4,344.0,0.0
+Katrina Duran,mark07@example.net,46,2025-01-04T10:04:16.703171,Streamlined homogeneous focus group Standard,2,302.81,0.0
+Katrina Duran,mark07@example.net,46,2025-01-04T10:04:16.703171,Triple-buffered executive interface Standard,3,362.98,0.0
+Katrina Duran,mark07@example.net,46,2025-01-04T10:04:16.703171,Organic attitude-oriented policy Premium,2,646.91,0.0
+Charles Ware,amydavenport@example.net,171,2025-01-04T09:02:41.383240,Adaptive coherent firmware Basic,5,491.2,3898.62
+Charles Ware,amydavenport@example.net,171,2025-01-04T09:02:41.383240,Organic attitude-oriented policy Premium,2,687.34,3898.62
+Tiffany Smith,ldrake@example.org,18,2024-12-29T14:43:53.307299,Virtual high-level strategy Deluxe,3,166.7,4330.79
+Tiffany Smith,ldrake@example.org,18,2024-12-29T14:43:53.307299,Triple-buffered executive interface Standard,5,320.27,4330.79
+Tiffany Smith,ldrake@example.org,18,2024-12-29T14:43:53.307299,Programmable systemic hierarchy Deluxe,3,730.16,4330.79
+Shawn Mcdaniel,kristin93@example.com,21,2024-12-24T06:00:31.369646,Profound real-time complexity Standard,4,670.85,0.0
+Shawn Mcdaniel,kristin93@example.com,21,2024-12-24T06:00:31.369646,Re-engineered contextually-based instruction set Premium,4,803.41,0.0
+Shawn Mcdaniel,kristin93@example.com,21,2024-12-24T06:00:31.369646,Organized human-resource help-desk Pro,5,778.91,0.0
+Chelsey Patterson,kristenli@example.org,153,2024-12-24T03:23:45.132034,User-centric systematic initiative Premium,2,507.86,0.0
+Chelsey Patterson,kristenli@example.org,153,2024-12-24T03:23:45.132034,Reactive bottom-line hub Premium,1,55.91,0.0
+Chelsey Patterson,kristenli@example.org,153,2024-12-24T03:23:45.132034,Implemented discrete moderator Pro,4,794.17,0.0
+Jennifer Wang,fmiles@example.net,51,2024-12-23T07:57:07.025488,Switchable heuristic Graphical User Interface Premium,2,322.59,0.0
+Jennifer Wang,fmiles@example.net,51,2024-12-23T07:57:07.025488,Implemented discrete moderator Pro,5,595.63,0.0
+Robert Golden,zperez@example.com,28,2024-12-22T01:41:33.057989,Managed incremental projection Pro,4,79.63,0.0
+Robert Golden,zperez@example.com,28,2024-12-22T01:41:33.057989,Persistent clear-thinking array Pro,5,793.91,0.0
+Robert Golden,zperez@example.com,28,2024-12-22T01:41:33.057989,Phased heuristic encryption Basic,4,428.94,0.0
+Gary Norton,donaldpayne@example.org,83,2024-12-22T01:10:27.217853,Public-key content-based array Pro,5,282.44,6959.09
+Gary Norton,donaldpayne@example.org,83,2024-12-22T01:10:27.217853,Automated dedicated complexity Deluxe,2,493.48,6959.09
+Gary Norton,donaldpayne@example.org,83,2024-12-22T01:10:27.217853,Inverse optimizing paradigm Basic,2,726.23,6959.09
+Gary Norton,donaldpayne@example.org,83,2024-12-22T01:10:27.217853,Stand-alone impactful attitude Standard,4,218.79,6959.09
+Gary Norton,donaldpayne@example.org,83,2024-12-22T01:10:27.217853,Programmable systemic hierarchy Deluxe,3,730.16,6959.09
+Cindy Jimenez,nwolf@example.com,94,2024-12-21T07:28:24.796809,Ergonomic value-added budgetary management Standard,5,211.58,0.0
+Cindy Jimenez,nwolf@example.com,94,2024-12-21T07:28:24.796809,Extended coherent middleware Pro,1,932.16,0.0
+Cindy Jimenez,nwolf@example.com,94,2024-12-21T07:28:24.796809,Horizontal 6thgeneration challenge Deluxe,1,211.67,0.0
+Cindy Jimenez,nwolf@example.com,94,2024-12-21T07:28:24.796809,Self-enabling object-oriented toolset Basic,2,468.07,0.0
+Cindy Jimenez,nwolf@example.com,94,2024-12-21T07:28:24.796809,Balanced systemic policy Premium,1,145.33,0.0
+Traci Clark,lawrencegary@example.com,135,2024-12-20T21:10:52.417342,Organic attitude-oriented policy Premium,5,727.78,0.0
+Traci Clark,lawrencegary@example.com,135,2024-12-20T21:10:52.417342,User-centric fault-tolerant software Pro,2,289.68,0.0
+Traci Clark,lawrencegary@example.com,135,2024-12-20T21:10:52.417342,Phased interactive database Pro,5,422.65,0.0
+Shane Glass,michelle52@example.com,6,2024-12-20T18:56:49.649549,Virtual high-level strategy Deluxe,2,187.53,829.23
+Shane Glass,michelle52@example.com,6,2024-12-20T18:56:49.649549,Exclusive scalable alliance Premium,1,445.9,829.23
+Amber Hernandez,ericnunez@example.com,166,2024-12-13T11:16:08.462401,Advanced client-server throughput Basic,2,797.44,3020.38
+Amber Hernandez,ericnunez@example.com,166,2024-12-13T11:16:08.462401,Exclusive scalable alliance Premium,1,594.54,3020.38
+Amber Hernandez,ericnunez@example.com,166,2024-12-13T11:16:08.462401,Balanced systemic policy Premium,1,145.33,3020.38
+Amber Hernandez,ericnunez@example.com,166,2024-12-13T11:16:08.462401,Synchronized bi-directional strategy Deluxe,4,155.97,3020.38
+Leah Oneill,johnsonbrenda@example.org,75,2024-12-08T02:51:10.873364,Virtual needs-based middleware Pro,5,581.44,0.0
+Leah Oneill,johnsonbrenda@example.org,75,2024-12-08T02:51:10.873364,Automated attitude-oriented capability Deluxe,5,368.47,0.0
+Leah Oneill,johnsonbrenda@example.org,75,2024-12-08T02:51:10.873364,Expanded fault-tolerant Internet solution Premium,3,779.74,0.0
+Leah Oneill,johnsonbrenda@example.org,75,2024-12-08T02:51:10.873364,Universal methodical customer loyalty Basic,4,690.49,0.0
+Brandon Schultz,bartonshannon@example.net,139,2024-12-01T17:09:30.264216,Synchronized bandwidth-monitored database Deluxe,3,240.37,2324.2
+Brandon Schultz,bartonshannon@example.net,139,2024-12-01T17:09:30.264216,Streamlined dynamic info-mediaries Premium,2,779.12,2324.2
+Samantha White,tranrobin@example.net,50,2024-11-30T15:13:55.386348,Enhanced scalable task-force Basic,3,491.98,0.0
+Carrie Simmons,cbell@example.net,43,2024-11-26T20:08:39.840057,Fundamental web-enabled strategy Premium,4,611.32,0.0
+Carrie Simmons,cbell@example.net,43,2024-11-26T20:08:39.840057,Centralized multi-state framework Deluxe,5,66.24,0.0
+Carrie Simmons,cbell@example.net,43,2024-11-26T20:08:39.840057,Enterprise-wide hybrid analyzer Premium,1,282.84,0.0
+Carrie Simmons,cbell@example.net,43,2024-11-26T20:08:39.840057,Object-based asynchronous moderator Basic,2,771.82,0.0
+Carrie Simmons,cbell@example.net,43,2024-11-26T20:08:39.840057,Up-sized global intranet Standard,3,462.66,0.0
+Danielle Johnson,john21@example.net,101,2024-11-24T21:05:20.923506,Ergonomic object-oriented capacity Deluxe,1,660.89,0.0
+Danielle Johnson,john21@example.net,101,2024-11-24T21:05:20.923506,Ergonomic client-server interface Standard,1,211.94,0.0
+Danielle Johnson,john21@example.net,101,2024-11-24T21:05:20.923506,Future-proofed web-enabled ability Premium,4,122.0,0.0
+Danielle Johnson,john21@example.net,101,2024-11-24T21:05:20.923506,Balanced systemic policy Premium,5,145.33,0.0
+Jennifer Foster,reesebeth@example.org,36,2024-11-20T13:41:18.581613,Reduced 5thgeneration secured line Deluxe,3,735.38,3087.3900000000003
+Jennifer Foster,reesebeth@example.org,36,2024-11-20T13:41:18.581613,Ergonomic client-server interface Standard,3,282.58,3087.3900000000003
+Michael Smith,bgross@example.net,146,2024-11-19T16:06:35.517031,Reactive bottom-line hub Premium,4,50.32,0.0
+Michael Smith,bgross@example.net,146,2024-11-19T16:06:35.517031,User-centric optimal algorithm Deluxe,3,575.35,0.0
+Brandon Schultz,bartonshannon@example.net,93,2024-11-17T14:24:44.375428,Face-to-face demand-driven implementation Standard,4,354.43,3333.69
+Brandon Schultz,bartonshannon@example.net,93,2024-11-17T14:24:44.375428,Ergonomic value-added budgetary management Standard,2,179.84,3333.69
+Brandon Schultz,bartonshannon@example.net,93,2024-11-17T14:24:44.375428,User-friendly stable encoding Premium,2,744.41,3333.69
